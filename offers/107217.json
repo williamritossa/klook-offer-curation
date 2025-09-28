@@ -1,0 +1,1465 @@
+{
+    "success": true,
+    "activity": {
+        "activity_id": 107217,
+        "title": "Go City - New York Pass",
+        "subtitle": "",
+        "what_we_love": "Unlock the best of New York City with the all-inclusive New York Pass® and save up to 50% on admission to the city's top attractions. With this instantly delivered pass, you can seamlessly explore iconic landmarks, museums, and hidden gems without breaking the bank. Dive into the city's rich cultural tapestry as you visit must-see sights like the Statue of Liberty, Empire State Building, and Central Park. Immerse yourself in art, history, and entertainment with access to renowned museums and theaters. The New York Pass® ensures a cost-effective and convenient way to experience the vibrant pulse of the city. Maximize your time and budget, making the most of your New York adventure",
+        "video_url": "",
+        "supported_languages": [
+            "en_US",
+            "en_GB",
+            "en_PH",
+            "en_MY",
+            "en_IN",
+            "en_BS",
+            "de_DE",
+            "en_SG",
+            "es_ES",
+            "en_NZ",
+            "fr_FR",
+            "en_CA",
+            "en_HK",
+            "ru_RU",
+            "it_IT",
+            "en_AU",
+            "ms_MY",
+            "th_TH",
+            "ko_KR",
+            "id_ID",
+            "ja_JP",
+            "vi_VN",
+            "zh_CN",
+            "zh_TW",
+            "zh_HK"
+        ],
+        "available_date": "2025-09-25 00:00:00",
+        "location": "40.748441,-73.985664",
+        "address_desc_multilang": "Empire State Building",
+        "price": "",
+        "vat_price": null,
+        "currency": "",
+        "has_msp": false,
+        "images": [
+            {
+                "image_alt": "Go City - New York Pass",
+                "image_desc": "",
+                "width": 1800,
+                "height": 1200,
+                "image_type": "BANNER",
+                "image_url_host": "https://res.klook.com/image/upload/activities/tf0f9ixgmw06xuhmbqfc.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "30 Hudson Yards",
+                "image_desc": "The New York Pass provides access to 100+ attractions, offering time and cost savings on admissions",
+                "width": 3000,
+                "height": 2000,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/t8kkjswrbbswoxaefekj.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "American Museum Of Natural History",
+                "image_desc": "Explore the American Museum of Natural History from popular spots to hidden gems",
+                "width": 3000,
+                "height": 2000,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/bwcqvm6odgybk0jcuqbj.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "Young tourist woman eating Currywurst",
+                "image_desc": "Choose from 1 to 10-day passes, granting convenient, digital access to attractions at your preferred pace",
+                "width": 3000,
+                "height": 2000,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/ledvjuahllefalbrqayz.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "Times Square",
+                "image_desc": "Your pass is fully digital; simply show it on your phone or print it at home for hassle-free entry to each attraction",
+                "width": 3000,
+                "height": 2000,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/xyhs64te6gyhp3kp8uqn.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "9/11 Memorial & Museum",
+                "image_desc": "Maximize your adventure by effortlessly enjoying popular landmarks and attractions with the New York Pass",
+                "width": 3000,
+                "height": 2000,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/t4hsguxv2gdx7vtvajdm.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "Big Bus Tours",
+                "image_desc": "Plan your itinerary with ease using the Go City app, deciding where to go next with this comprehensive pass",
+                "width": 3000,
+                "height": 2000,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/qsjj8xzpn6kgjmtzmscp.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "Brooklyn Bridge",
+                "image_desc": "The New York Pass empowers you to experience the vibrant pulse of the city on your own terms",
+                "width": 3000,
+                "height": 2000,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/ugorupk1ha7veq2gpfgy.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "Spirit Of East Harlem Mural New York",
+                "image_desc": "Visit iconic sites like the Empire State Building, pay respects at the 9/11 Memorial, and enjoy flexible Big Bus tours",
+                "width": 3000,
+                "height": 2000,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/xkuq4ydd7uqrxt4h91ow.jpg",
+                "group_id": "",
+                "images": null
+            }
+        ],
+        "city_info": [
+            {
+                "city_id": 93,
+                "city_name": "New York",
+                "country_id": 1028,
+                "country_name": "United States"
+            }
+        ],
+        "departure_city_info": [],
+        "category_info": {
+            "sub_category_id": 1,
+            "sub_category_name": "Attractions ",
+            "leaf_category_id": 120,
+            "leaf_category_name": "Attractions Pass"
+        },
+        "section_info": [
+            {
+                "section_name": "Guidebook",
+                "groups": [
+                    {
+                        "group_name": "Intro",
+                        "group_type": 0,
+                        "group_type_name": "normal",
+                        "ref_field_tag": "aid_ticket_type",
+                        "content": "## Intro\n\n* Explore NYC hassle-free with the New York Pass by Go City, offering access to 100+ attractions at a single, budget-friendly price\n* Experience iconic sights like the Empire State Building, the Statue of Liberty ferry, and the Big Bus Tour with this mobile pass\n* Select your desired days in NYC, activate the pass at the first attraction, and enjoy unlimited admission to top experiences\n* Your New York Pass records usage details, remaining valid for consecutive days, providing a seamless and cost-effective city adventure\n\nUnlock the best of New York City with the all-inclusive New York Pass® and save up to 50% on admission to the city's top attractions. With this instantly delivered pass, you can seamlessly explore iconic landmarks, museums, and hidden gems without breaking the bank. Dive into the city's rich cultural tapestry as you visit must-see sights like the Statue of Liberty, Empire State Building, and Central Park. Immerse yourself in art, history, and entertainment with access to renowned museums and theaters. The New York Pass® ensures a cost-effective and convenient way to experience the vibrant pulse of the city. Maximize your time and budget, making the most of your New York adventure"
+                    }
+                ]
+            }
+        ],
+        "package_list": [
+            {
+                "package_id": 362356,
+                "package_name": "1-Day Pass",
+                "package_min_pax": 0,
+                "package_max_pax": 9999,
+                "cancellation_type": 9,
+                "cancellation_type_multilang": "Free cancellation before redemption",
+                "voucher_usage": 0,
+                "voucher_usage_multilang": "Show e-voucher",
+                "timeslot_type": 0,
+                "instant": 1,
+                "ticket_type": 0,
+                "is_open_date": true,
+                "section_info": [
+                    {
+                        "section_name": "About this package",
+                        "groups": [
+                            {
+                                "group_name": "What's included",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "inclusive_of",
+                                "content": "## What's included\n\n- Admission to: [100+ New York attractions](https://mypass.gocity.com/guidebook?destination=new-york&language=en&passType=ALL_INCLUSIVE&brand=GREAT)\n- 1-day attraction pass\n\n- Guidebook\n- 1-day hop-on hop-off bus tour\n- App with attraction information"
+                            },
+                            {
+                                "group_name": "Not included",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "not_inclusive_of",
+                                "content": "## Not included\n\n- Hotel pick up and drop off\n- Meals and beverages\n- Special exhibitions at attractions (Additional costs may apply)\n\n- Other personal expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "Things to note",
+                        "groups": [
+                            {
+                                "group_name": "Eligibility",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "eligibility",
+                                "content": "## Eligibility\n\n- Children aged 13+ will be charged the same rate as adults\n- Children aged 0-2 may enter some attractions for free while some attractions might charge tickets for them. Please check with the attractions directly in advance. You may refer to the digital guide that comes with your pass for more information"
+                            },
+                            {
+                                "group_name": "Additional information",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "additional_information",
+                                "content": "## Additional information\n\n- There is no luggage storage facility at the venue\n- Once you activate a pass, it can only be used by that individual. Passes cannot be re-sold or used by more than one person\n- For detailed information regarding the attractions, please check the [guide](https://mypass.gocity.com/guidebook?destination=new-york&language=en&passType=ALL_INCLUSIVE&brand=GREAT)\n- Please note that the number of attractions is subject to change due to the temporary attraction closure\n\n- Re-entry is not allowed after you leave the venue"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "How to use",
+                        "groups": [
+                            {
+                                "group_name": "Usage validity",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "group_usage_validity",
+                                "content": "## Usage validity\n\n- The voucher is valid for 365 day(s) from the booking confirmation date. It expires at 23:59 on the last day\n\n- The New York All-Inclusive Pass will be activated on your first visit to any attraction, and it is based on consecutive days. For example, if you start using the 2-day pass on Wednesday it will be valid for Wednesday and Thursday"
+                            },
+                            {
+                                "group_name": "How to redeem",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "voucher_type_desc",
+                                "content": "## How to redeem\n\n- Present your mobile voucher\n\n- Enter the venue directly with your voucher\n- Activate your pass by visiting your first attraction\n- Redeemed pass(es) are non-transferable\n- All-inclusive passes remain valid for the consecutive number of days purchased, with 'Day 1' commencing when you first scan the pass at an attraction. Each pass day concludes at midnight, regardless of the time you initially scan your pass at the first attraction"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "Cancelation policy",
+                        "groups": [
+                            {
+                                "group_name": "Cancelation policy",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "policy",
+                                "content": "- You'll get a full refund as long as you don't redeem your voucher\n\n- Vouchers can be used any time within the validity period. Refunds can't be made once it has been redeemed or has expired.\n- If you've participated in at least one activity, visited at least one attraction or used one of the tickets, refunds can't be issued"
+                            }
+                        ]
+                    }
+                ],
+                "sku_list": [
+                    {
+                        "sku_id": 828951611560,
+                        "min_age": 0,
+                        "max_age": 0,
+                        "sku_max_pax": 9999,
+                        "sku_min_pax": 0,
+                        "title": "Adult",
+                        "required": 0,
+                        "sku_type": "ADULT",
+                        "variant_group_key": "",
+                        "variants": [],
+                        "section_info": [],
+                        "cancellation_type": -1,
+                        "cancellation_type_multilang": "",
+                        "voucher_usage": -1,
+                        "voucher_usage_multilang": "",
+                        "timeslot_type": 0,
+                        "instant": 1,
+                        "voucher_type": 0
+                    },
+                    {
+                        "sku_id": 828951611722,
+                        "min_age": 3,
+                        "max_age": 12,
+                        "sku_max_pax": 9999,
+                        "sku_min_pax": 0,
+                        "title": "Child",
+                        "required": 0,
+                        "sku_type": "CHILD",
+                        "variant_group_key": "",
+                        "variants": [],
+                        "section_info": [],
+                        "cancellation_type": -1,
+                        "cancellation_type_multilang": "",
+                        "voucher_usage": -1,
+                        "voucher_usage_multilang": "",
+                        "timeslot_type": 0,
+                        "instant": 1,
+                        "voucher_type": 0
+                    }
+                ],
+                "time_zone": "-05:00",
+                "contact_info": [
+                    {
+                        "key": "title",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "name_english",
+                        "required": true,
+                        "regex": "^[\\s]{0,}[A-Za-z ]*[A-Za-z]{1,128}[\\s]{0,}$"
+                    },
+                    {
+                        "key": "name_local",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "country",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "mobile",
+                        "required": true,
+                        "regex": ""
+                    },
+                    {
+                        "key": "email",
+                        "required": true,
+                        "regex": ""
+                    }
+                ],
+                "spec_attr_list": null,
+                "variant_definition": []
+            },
+            {
+                "package_id": 363018,
+                "package_name": "2-Day Pass",
+                "package_min_pax": 0,
+                "package_max_pax": 9999,
+                "cancellation_type": 9,
+                "cancellation_type_multilang": "Free cancellation before redemption",
+                "voucher_usage": 0,
+                "voucher_usage_multilang": "Show e-voucher",
+                "timeslot_type": 0,
+                "instant": 1,
+                "ticket_type": 0,
+                "is_open_date": true,
+                "section_info": [
+                    {
+                        "section_name": "About this package",
+                        "groups": [
+                            {
+                                "group_name": "What's included",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "inclusive_of",
+                                "content": "## What's included\n\n- Admission to: [100+ New York attractions](https://mypass.gocity.com/guidebook?destination=new-york&language=en&passType=ALL_INCLUSIVE&brand=GREAT)\n- 2-day consecutive attraction pass\n\n- Guidebook\n- 1-day hop-on hop-off bus tour\n- App with attraction information"
+                            },
+                            {
+                                "group_name": "Not included",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "not_inclusive_of",
+                                "content": "## Not included\n\n- Hotel pick up and drop off\n- Meals and beverages\n- Special exhibitions at attractions (Additional costs may apply)\n\n- Other personal expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "Things to note",
+                        "groups": [
+                            {
+                                "group_name": "Eligibility",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "eligibility",
+                                "content": "## Eligibility\n\n- Children aged 13+ will be charged the same rate as adults\n- Children aged 0-2 may enter some attractions for free while some attractions might charge tickets for them. Please check with the attractions directly in advance. You may refer to the digital guide that comes with your pass for more information"
+                            },
+                            {
+                                "group_name": "Additional information",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "additional_information",
+                                "content": "## Additional information\n\n- There is no luggage storage facility at the venue\n- Once you activate a pass, it can only be used by that individual. Passes cannot be re-sold or used by more than one person\n- For detailed information regarding the attractions, please check the [guide](https://mypass.gocity.com/guidebook?destination=new-york&language=en&passType=ALL_INCLUSIVE&brand=GREAT)\n- Please note that the number of attractions is subject to change due to the temporary attraction closure\n\n- Re-entry is not allowed after you leave the venue"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "How to use",
+                        "groups": [
+                            {
+                                "group_name": "Usage validity",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "group_usage_validity",
+                                "content": "## Usage validity\n\n- The voucher is valid for 365 day(s) from the booking confirmation date. It expires at 23:59 on the last day\n\n- The New York All-Inclusive Pass will be activated on your first visit to any attraction, and it is based on consecutive days. For example, if you start using the 2-day pass on Wednesday it will be valid for Wednesday and Thursday"
+                            },
+                            {
+                                "group_name": "How to redeem",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "voucher_type_desc",
+                                "content": "## How to redeem\n\n- Present your mobile voucher\n\n- Enter the venue directly with your voucher\n- Activate your pass by visiting your first attraction\n- Redeemed pass(es) are non-transferable\n- All-inclusive passes remain valid for the consecutive number of days purchased, with 'Day 1' commencing when you first scan the pass at an attraction. Each pass day concludes at midnight, regardless of the time you initially scan your pass at the first attraction"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "Cancelation policy",
+                        "groups": [
+                            {
+                                "group_name": "Cancelation policy",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "policy",
+                                "content": "- You'll get a full refund as long as you don't redeem your voucher\n\n- Vouchers can be used any time within the validity period. Refunds can't be made once it has been redeemed or has expired.\n- If you've participated in at least one activity, visited at least one attraction or used one of the tickets, refunds can't be issued"
+                            }
+                        ]
+                    }
+                ],
+                "sku_list": [
+                    {
+                        "sku_id": 828951611727,
+                        "min_age": 0,
+                        "max_age": 0,
+                        "sku_max_pax": 9999,
+                        "sku_min_pax": 0,
+                        "title": "Adult",
+                        "required": 0,
+                        "sku_type": "ADULT",
+                        "variant_group_key": "",
+                        "variants": [],
+                        "section_info": [],
+                        "cancellation_type": -1,
+                        "cancellation_type_multilang": "",
+                        "voucher_usage": -1,
+                        "voucher_usage_multilang": "",
+                        "timeslot_type": 0,
+                        "instant": 1,
+                        "voucher_type": 0
+                    },
+                    {
+                        "sku_id": 828951611728,
+                        "min_age": 3,
+                        "max_age": 12,
+                        "sku_max_pax": 9999,
+                        "sku_min_pax": 0,
+                        "title": "Child",
+                        "required": 0,
+                        "sku_type": "CHILD",
+                        "variant_group_key": "",
+                        "variants": [],
+                        "section_info": [],
+                        "cancellation_type": -1,
+                        "cancellation_type_multilang": "",
+                        "voucher_usage": -1,
+                        "voucher_usage_multilang": "",
+                        "timeslot_type": 0,
+                        "instant": 1,
+                        "voucher_type": 0
+                    }
+                ],
+                "time_zone": "-05:00",
+                "contact_info": [
+                    {
+                        "key": "title",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "name_english",
+                        "required": true,
+                        "regex": "^[\\s]{0,}[A-Za-z ]*[A-Za-z]{1,128}[\\s]{0,}$"
+                    },
+                    {
+                        "key": "name_local",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "country",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "mobile",
+                        "required": true,
+                        "regex": ""
+                    },
+                    {
+                        "key": "email",
+                        "required": true,
+                        "regex": ""
+                    }
+                ],
+                "spec_attr_list": null,
+                "variant_definition": []
+            },
+            {
+                "package_id": 363020,
+                "package_name": "3-Day Pass",
+                "package_min_pax": 0,
+                "package_max_pax": 9999,
+                "cancellation_type": 9,
+                "cancellation_type_multilang": "Free cancellation before redemption",
+                "voucher_usage": 0,
+                "voucher_usage_multilang": "Show e-voucher",
+                "timeslot_type": 0,
+                "instant": 1,
+                "ticket_type": 0,
+                "is_open_date": true,
+                "section_info": [
+                    {
+                        "section_name": "About this package",
+                        "groups": [
+                            {
+                                "group_name": "What's included",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "inclusive_of",
+                                "content": "## What's included\n\n- Admission to: [100+ New York attractions](https://mypass.gocity.com/guidebook?destination=new-york&language=en&passType=ALL_INCLUSIVE&brand=GREAT)\n- 3-day consecutive attraction pass\n\n- Guidebook\n- 1-day hop-on hop-off bus tour\n- App with attraction information"
+                            },
+                            {
+                                "group_name": "Not included",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "not_inclusive_of",
+                                "content": "## Not included\n\n- Hotel pick up and drop off\n- Meals and beverages\n- Special exhibitions at attractions (Additional costs may apply)\n\n- Other personal expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "Things to note",
+                        "groups": [
+                            {
+                                "group_name": "Eligibility",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "eligibility",
+                                "content": "## Eligibility\n\n- Children aged 13+ will be charged the same rate as adults\n- Children aged 0-2 may enter some attractions for free while some attractions might charge tickets for them. Please check with the attractions directly in advance. You may refer to the digital guide that comes with your pass for more information"
+                            },
+                            {
+                                "group_name": "Additional information",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "additional_information",
+                                "content": "## Additional information\n\n- There is no luggage storage facility at the venue\n- Once you activate a pass, it can only be used by that individual. Passes cannot be re-sold or used by more than one person\n- For detailed information regarding the attractions, please check the [guide](https://mypass.gocity.com/guidebook?destination=new-york&language=en&passType=ALL_INCLUSIVE&brand=GREAT)\n- Please note that the number of attractions is subject to change due to the temporary attraction closure\n\n- Re-entry is not allowed after you leave the venue"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "How to use",
+                        "groups": [
+                            {
+                                "group_name": "Usage validity",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "group_usage_validity",
+                                "content": "## Usage validity\n\n- The voucher is valid for 365 day(s) from the booking confirmation date. It expires at 23:59 on the last day\n\n- The New York All-Inclusive Pass will be activated on your first visit to any attraction, and it is based on consecutive days. For example, if you start using the 2-day pass on Wednesday it will be valid for Wednesday and Thursday"
+                            },
+                            {
+                                "group_name": "How to redeem",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "voucher_type_desc",
+                                "content": "## How to redeem\n\n- Present your mobile voucher\n\n- Enter the venue directly with your voucher\n- Activate your pass by visiting your first attraction\n- Redeemed pass(es) are non-transferable\n- All-inclusive passes remain valid for the consecutive number of days purchased, with 'Day 1' commencing when you first scan the pass at an attraction. Each pass day concludes at midnight, regardless of the time you initially scan your pass at the first attraction"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "Cancelation policy",
+                        "groups": [
+                            {
+                                "group_name": "Cancelation policy",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "policy",
+                                "content": "- You'll get a full refund as long as you don't redeem your voucher\n\n- Vouchers can be used any time within the validity period. Refunds can't be made once it has been redeemed or has expired.\n- If you've participated in at least one activity, visited at least one attraction or used one of the tickets, refunds can't be issued"
+                            }
+                        ]
+                    }
+                ],
+                "sku_list": [
+                    {
+                        "sku_id": 828951611730,
+                        "min_age": 0,
+                        "max_age": 0,
+                        "sku_max_pax": 9999,
+                        "sku_min_pax": 0,
+                        "title": "Adult",
+                        "required": 0,
+                        "sku_type": "ADULT",
+                        "variant_group_key": "",
+                        "variants": [],
+                        "section_info": [],
+                        "cancellation_type": -1,
+                        "cancellation_type_multilang": "",
+                        "voucher_usage": -1,
+                        "voucher_usage_multilang": "",
+                        "timeslot_type": 0,
+                        "instant": 1,
+                        "voucher_type": 0
+                    },
+                    {
+                        "sku_id": 828951611731,
+                        "min_age": 3,
+                        "max_age": 12,
+                        "sku_max_pax": 9999,
+                        "sku_min_pax": 0,
+                        "title": "Child",
+                        "required": 0,
+                        "sku_type": "CHILD",
+                        "variant_group_key": "",
+                        "variants": [],
+                        "section_info": [],
+                        "cancellation_type": -1,
+                        "cancellation_type_multilang": "",
+                        "voucher_usage": -1,
+                        "voucher_usage_multilang": "",
+                        "timeslot_type": 0,
+                        "instant": 1,
+                        "voucher_type": 0
+                    }
+                ],
+                "time_zone": "-05:00",
+                "contact_info": [
+                    {
+                        "key": "title",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "name_english",
+                        "required": true,
+                        "regex": "^[\\s]{0,}[A-Za-z ]*[A-Za-z]{1,128}[\\s]{0,}$"
+                    },
+                    {
+                        "key": "name_local",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "country",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "mobile",
+                        "required": true,
+                        "regex": ""
+                    },
+                    {
+                        "key": "email",
+                        "required": true,
+                        "regex": ""
+                    }
+                ],
+                "spec_attr_list": null,
+                "variant_definition": []
+            },
+            {
+                "package_id": 363021,
+                "package_name": "4-Day Pass",
+                "package_min_pax": 0,
+                "package_max_pax": 9999,
+                "cancellation_type": 9,
+                "cancellation_type_multilang": "Free cancellation before redemption",
+                "voucher_usage": 0,
+                "voucher_usage_multilang": "Show e-voucher",
+                "timeslot_type": 0,
+                "instant": 1,
+                "ticket_type": 0,
+                "is_open_date": true,
+                "section_info": [
+                    {
+                        "section_name": "About this package",
+                        "groups": [
+                            {
+                                "group_name": "What's included",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "inclusive_of",
+                                "content": "## What's included\n\n- Admission to: [100+ New York attractions](https://mypass.gocity.com/guidebook?destination=new-york&language=en&passType=ALL_INCLUSIVE&brand=GREAT)\n- 4-day consecutive attraction pass\n\n- Guidebook\n- 1-day hop-on hop-off bus tour\n- App with attraction information"
+                            },
+                            {
+                                "group_name": "Not included",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "not_inclusive_of",
+                                "content": "## Not included\n\n- Hotel pick up and drop off\n- Meals and beverages\n- Special exhibitions at attractions (Additional costs may apply)\n\n- Other personal expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "Things to note",
+                        "groups": [
+                            {
+                                "group_name": "Eligibility",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "eligibility",
+                                "content": "## Eligibility\n\n- Children aged 13+ will be charged the same rate as adults\n- Children aged 0-2 may enter some attractions for free while some attractions might charge tickets for them. Please check with the attractions directly in advance. You may refer to the digital guide that comes with your pass for more information"
+                            },
+                            {
+                                "group_name": "Additional information",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "additional_information",
+                                "content": "## Additional information\n\n- There is no luggage storage facility at the venue\n- Once you activate a pass, it can only be used by that individual. Passes cannot be re-sold or used by more than one person\n- For detailed information regarding the attractions, please check the [guide](https://mypass.gocity.com/guidebook?destination=new-york&language=en&passType=ALL_INCLUSIVE&brand=GREAT)\n- Please note that the number of attractions is subject to change due to the temporary attraction closure\n\n- Re-entry is not allowed after you leave the venue"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "How to use",
+                        "groups": [
+                            {
+                                "group_name": "Usage validity",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "group_usage_validity",
+                                "content": "## Usage validity\n\n- The voucher is valid for 365 day(s) from the booking confirmation date. It expires at 23:59 on the last day\n\n- The New York All-Inclusive Pass will be activated on your first visit to any attraction, and it is based on consecutive days. For example, if you start using the 2-day pass on Wednesday it will be valid for Wednesday and Thursday"
+                            },
+                            {
+                                "group_name": "How to redeem",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "voucher_type_desc",
+                                "content": "## How to redeem\n\n- Present your mobile voucher\n\n- Enter the venue directly with your voucher\n- Activate your pass by visiting your first attraction\n- Redeemed pass(es) are non-transferable\n- All-inclusive passes remain valid for the consecutive number of days purchased, with 'Day 1' commencing when you first scan the pass at an attraction. Each pass day concludes at midnight, regardless of the time you initially scan your pass at the first attraction"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "Cancelation policy",
+                        "groups": [
+                            {
+                                "group_name": "Cancelation policy",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "policy",
+                                "content": "- You'll get a full refund as long as you don't redeem your voucher\n\n- Vouchers can be used any time within the validity period. Refunds can't be made once it has been redeemed or has expired.\n- If you've participated in at least one activity, visited at least one attraction or used one of the tickets, refunds can't be issued"
+                            }
+                        ]
+                    }
+                ],
+                "sku_list": [
+                    {
+                        "sku_id": 828951611733,
+                        "min_age": 0,
+                        "max_age": 0,
+                        "sku_max_pax": 9999,
+                        "sku_min_pax": 0,
+                        "title": "Adult",
+                        "required": 0,
+                        "sku_type": "ADULT",
+                        "variant_group_key": "",
+                        "variants": [],
+                        "section_info": [],
+                        "cancellation_type": -1,
+                        "cancellation_type_multilang": "",
+                        "voucher_usage": -1,
+                        "voucher_usage_multilang": "",
+                        "timeslot_type": 0,
+                        "instant": 1,
+                        "voucher_type": 0
+                    },
+                    {
+                        "sku_id": 828951611734,
+                        "min_age": 3,
+                        "max_age": 12,
+                        "sku_max_pax": 9999,
+                        "sku_min_pax": 0,
+                        "title": "Child",
+                        "required": 0,
+                        "sku_type": "CHILD",
+                        "variant_group_key": "",
+                        "variants": [],
+                        "section_info": [],
+                        "cancellation_type": -1,
+                        "cancellation_type_multilang": "",
+                        "voucher_usage": -1,
+                        "voucher_usage_multilang": "",
+                        "timeslot_type": 0,
+                        "instant": 1,
+                        "voucher_type": 0
+                    }
+                ],
+                "time_zone": "-05:00",
+                "contact_info": [
+                    {
+                        "key": "title",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "name_english",
+                        "required": true,
+                        "regex": "^[\\s]{0,}[A-Za-z ]*[A-Za-z]{1,128}[\\s]{0,}$"
+                    },
+                    {
+                        "key": "name_local",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "country",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "mobile",
+                        "required": true,
+                        "regex": ""
+                    },
+                    {
+                        "key": "email",
+                        "required": true,
+                        "regex": ""
+                    }
+                ],
+                "spec_attr_list": null,
+                "variant_definition": []
+            },
+            {
+                "package_id": 363022,
+                "package_name": "5-Day Pass",
+                "package_min_pax": 0,
+                "package_max_pax": 9999,
+                "cancellation_type": 9,
+                "cancellation_type_multilang": "Free cancellation before redemption",
+                "voucher_usage": 0,
+                "voucher_usage_multilang": "Show e-voucher",
+                "timeslot_type": 0,
+                "instant": 1,
+                "ticket_type": 0,
+                "is_open_date": true,
+                "section_info": [
+                    {
+                        "section_name": "About this package",
+                        "groups": [
+                            {
+                                "group_name": "What's included",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "inclusive_of",
+                                "content": "## What's included\n\n- Admission to: [100+ New York attractions](https://mypass.gocity.com/guidebook?destination=new-york&language=en&passType=ALL_INCLUSIVE&brand=GREAT)\n- 5-day consecutive attraction pass\n\n- Guidebook\n- 1-day hop-on hop-off bus tour\n- App with attraction information"
+                            },
+                            {
+                                "group_name": "Not included",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "not_inclusive_of",
+                                "content": "## Not included\n\n- Hotel pick up and drop off\n- Meals and beverages\n- Special exhibitions at attractions (Additional costs may apply)\n\n- Other personal expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "Things to note",
+                        "groups": [
+                            {
+                                "group_name": "Eligibility",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "eligibility",
+                                "content": "## Eligibility\n\n- Children aged 13+ will be charged the same rate as adults\n- Children aged 0-2 may enter some attractions for free while some attractions might charge tickets for them. Please check with the attractions directly in advance. You may refer to the digital guide that comes with your pass for more information"
+                            },
+                            {
+                                "group_name": "Additional information",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "additional_information",
+                                "content": "## Additional information\n\n- There is no luggage storage facility at the venue\n- Once you activate a pass, it can only be used by that individual. Passes cannot be re-sold or used by more than one person\n- For detailed information regarding the attractions, please check the [guide](https://mypass.gocity.com/guidebook?destination=new-york&language=en&passType=ALL_INCLUSIVE&brand=GREAT)\n- Please note that the number of attractions is subject to change due to the temporary attraction closure\n\n- Re-entry is not allowed after you leave the venue"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "How to use",
+                        "groups": [
+                            {
+                                "group_name": "Usage validity",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "group_usage_validity",
+                                "content": "## Usage validity\n\n- The voucher is valid for 365 day(s) from the booking confirmation date. It expires at 23:59 on the last day\n\n- The New York All-Inclusive Pass will be activated on your first visit to any attraction, and it is based on consecutive days. For example, if you start using the 2-day pass on Wednesday it will be valid for Wednesday and Thursday"
+                            },
+                            {
+                                "group_name": "How to redeem",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "voucher_type_desc",
+                                "content": "## How to redeem\n\n- Present your mobile voucher\n\n- Enter the venue directly with your voucher\n- Activate your pass by visiting your first attraction\n- Redeemed pass(es) are non-transferable\n- All-inclusive passes remain valid for the consecutive number of days purchased, with 'Day 1' commencing when you first scan the pass at an attraction. Each pass day concludes at midnight, regardless of the time you initially scan your pass at the first attraction"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "Cancelation policy",
+                        "groups": [
+                            {
+                                "group_name": "Cancelation policy",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "policy",
+                                "content": "- You'll get a full refund as long as you don't redeem your voucher\n\n- Vouchers can be used any time within the validity period. Refunds can't be made once it has been redeemed or has expired.\n- If you've participated in at least one activity, visited at least one attraction or used one of the tickets, refunds can't be issued"
+                            }
+                        ]
+                    }
+                ],
+                "sku_list": [
+                    {
+                        "sku_id": 828951611738,
+                        "min_age": 0,
+                        "max_age": 0,
+                        "sku_max_pax": 9999,
+                        "sku_min_pax": 0,
+                        "title": "Adult",
+                        "required": 0,
+                        "sku_type": "ADULT",
+                        "variant_group_key": "",
+                        "variants": [],
+                        "section_info": [],
+                        "cancellation_type": -1,
+                        "cancellation_type_multilang": "",
+                        "voucher_usage": -1,
+                        "voucher_usage_multilang": "",
+                        "timeslot_type": 0,
+                        "instant": 1,
+                        "voucher_type": 0
+                    },
+                    {
+                        "sku_id": 828951611739,
+                        "min_age": 3,
+                        "max_age": 12,
+                        "sku_max_pax": 9999,
+                        "sku_min_pax": 0,
+                        "title": "Child",
+                        "required": 0,
+                        "sku_type": "CHILD",
+                        "variant_group_key": "",
+                        "variants": [],
+                        "section_info": [],
+                        "cancellation_type": -1,
+                        "cancellation_type_multilang": "",
+                        "voucher_usage": -1,
+                        "voucher_usage_multilang": "",
+                        "timeslot_type": 0,
+                        "instant": 1,
+                        "voucher_type": 0
+                    }
+                ],
+                "time_zone": "-05:00",
+                "contact_info": [
+                    {
+                        "key": "title",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "name_english",
+                        "required": true,
+                        "regex": "^[\\s]{0,}[A-Za-z ]*[A-Za-z]{1,128}[\\s]{0,}$"
+                    },
+                    {
+                        "key": "name_local",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "country",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "mobile",
+                        "required": true,
+                        "regex": ""
+                    },
+                    {
+                        "key": "email",
+                        "required": true,
+                        "regex": ""
+                    }
+                ],
+                "spec_attr_list": null,
+                "variant_definition": []
+            },
+            {
+                "package_id": 363025,
+                "package_name": "6-Day Pass",
+                "package_min_pax": 0,
+                "package_max_pax": 9999,
+                "cancellation_type": 9,
+                "cancellation_type_multilang": "Free cancellation before redemption",
+                "voucher_usage": 0,
+                "voucher_usage_multilang": "Show e-voucher",
+                "timeslot_type": 0,
+                "instant": 1,
+                "ticket_type": 0,
+                "is_open_date": true,
+                "section_info": [
+                    {
+                        "section_name": "About this package",
+                        "groups": [
+                            {
+                                "group_name": "What's included",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "inclusive_of",
+                                "content": "## What's included\n\n- Admission to: [100+ New York attractions](https://mypass.gocity.com/guidebook?destination=new-york&language=en&passType=ALL_INCLUSIVE&brand=GREAT)\n- 6-day consecutive attraction pass\n\n- Guidebook\n- 1-day hop-on hop-off bus tour\n- App with attraction information"
+                            },
+                            {
+                                "group_name": "Not included",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "not_inclusive_of",
+                                "content": "## Not included\n\n- Hotel pick up and drop off\n- Meals and beverages\n- Special exhibitions at attractions (Additional costs may apply)\n\n- Other personal expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "Things to note",
+                        "groups": [
+                            {
+                                "group_name": "Eligibility",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "eligibility",
+                                "content": "## Eligibility\n\n- Children aged 13+ will be charged the same rate as adults\n- Children aged 0-2 may enter some attractions for free while some attractions might charge tickets for them. Please check with the attractions directly in advance. You may refer to the digital guide that comes with your pass for more information"
+                            },
+                            {
+                                "group_name": "Additional information",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "additional_information",
+                                "content": "## Additional information\n\n- There is no luggage storage facility at the venue\n- Once you activate a pass, it can only be used by that individual. Passes cannot be re-sold or used by more than one person\n- For detailed information regarding the attractions, please check the [guide](https://mypass.gocity.com/guidebook?destination=new-york&language=en&passType=ALL_INCLUSIVE&brand=GREAT)\n- Please note that the number of attractions is subject to change due to the temporary attraction closure\n\n- Re-entry is not allowed after you leave the venue"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "How to use",
+                        "groups": [
+                            {
+                                "group_name": "Usage validity",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "group_usage_validity",
+                                "content": "## Usage validity\n\n- The voucher is valid for 365 day(s) from the booking confirmation date. It expires at 23:59 on the last day\n\n- The New York All-Inclusive Pass will be activated on your first visit to any attraction, and it is based on consecutive days. For example, if you start using the 2-day pass on Wednesday it will be valid for Wednesday and Thursday"
+                            },
+                            {
+                                "group_name": "How to redeem",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "voucher_type_desc",
+                                "content": "## How to redeem\n\n- Present your mobile voucher\n\n- Enter the venue directly with your voucher\n- Activate your pass by visiting your first attraction\n- Redeemed pass(es) are non-transferable\n- All-inclusive passes remain valid for the consecutive number of days purchased, with 'Day 1' commencing when you first scan the pass at an attraction. Each pass day concludes at midnight, regardless of the time you initially scan your pass at the first attraction"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "Cancelation policy",
+                        "groups": [
+                            {
+                                "group_name": "Cancelation policy",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "policy",
+                                "content": "- You'll get a full refund as long as you don't redeem your voucher\n\n- Vouchers can be used any time within the validity period. Refunds can't be made once it has been redeemed or has expired.\n- If you've participated in at least one activity, visited at least one attraction or used one of the tickets, refunds can't be issued"
+                            }
+                        ]
+                    }
+                ],
+                "sku_list": [
+                    {
+                        "sku_id": 828951611740,
+                        "min_age": 0,
+                        "max_age": 0,
+                        "sku_max_pax": 9999,
+                        "sku_min_pax": 0,
+                        "title": "Adult",
+                        "required": 0,
+                        "sku_type": "ADULT",
+                        "variant_group_key": "",
+                        "variants": [],
+                        "section_info": [],
+                        "cancellation_type": -1,
+                        "cancellation_type_multilang": "",
+                        "voucher_usage": -1,
+                        "voucher_usage_multilang": "",
+                        "timeslot_type": 0,
+                        "instant": 1,
+                        "voucher_type": 0
+                    },
+                    {
+                        "sku_id": 828951611741,
+                        "min_age": 3,
+                        "max_age": 12,
+                        "sku_max_pax": 9999,
+                        "sku_min_pax": 0,
+                        "title": "Child",
+                        "required": 0,
+                        "sku_type": "CHILD",
+                        "variant_group_key": "",
+                        "variants": [],
+                        "section_info": [],
+                        "cancellation_type": -1,
+                        "cancellation_type_multilang": "",
+                        "voucher_usage": -1,
+                        "voucher_usage_multilang": "",
+                        "timeslot_type": 0,
+                        "instant": 1,
+                        "voucher_type": 0
+                    }
+                ],
+                "time_zone": "-05:00",
+                "contact_info": [
+                    {
+                        "key": "title",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "name_english",
+                        "required": true,
+                        "regex": "^[\\s]{0,}[A-Za-z ]*[A-Za-z]{1,128}[\\s]{0,}$"
+                    },
+                    {
+                        "key": "name_local",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "country",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "mobile",
+                        "required": true,
+                        "regex": ""
+                    },
+                    {
+                        "key": "email",
+                        "required": true,
+                        "regex": ""
+                    }
+                ],
+                "spec_attr_list": null,
+                "variant_definition": []
+            },
+            {
+                "package_id": 363026,
+                "package_name": "7-Day Pass",
+                "package_min_pax": 0,
+                "package_max_pax": 9999,
+                "cancellation_type": 9,
+                "cancellation_type_multilang": "Free cancellation before redemption",
+                "voucher_usage": 0,
+                "voucher_usage_multilang": "Show e-voucher",
+                "timeslot_type": 0,
+                "instant": 1,
+                "ticket_type": 0,
+                "is_open_date": true,
+                "section_info": [
+                    {
+                        "section_name": "About this package",
+                        "groups": [
+                            {
+                                "group_name": "What's included",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "inclusive_of",
+                                "content": "## What's included\n\n- Admission to: [100+ New York attractions](https://mypass.gocity.com/guidebook?destination=new-york&language=en&passType=ALL_INCLUSIVE&brand=GREAT)\n- 7-day consecutive attraction pass\n\n- Guidebook\n- 1-day hop-on hop-off bus tour\n- App with attraction information"
+                            },
+                            {
+                                "group_name": "Not included",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "not_inclusive_of",
+                                "content": "## Not included\n\n- Hotel pick up and drop off\n- Meals and beverages\n- Special exhibitions at attractions (Additional costs may apply)\n\n- Other personal expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "Things to note",
+                        "groups": [
+                            {
+                                "group_name": "Eligibility",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "eligibility",
+                                "content": "## Eligibility\n\n- Children aged 13+ will be charged the same rate as adults\n- Children aged 0-2 may enter some attractions for free while some attractions might charge tickets for them. Please check with the attractions directly in advance. You may refer to the digital guide that comes with your pass for more information"
+                            },
+                            {
+                                "group_name": "Additional information",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "additional_information",
+                                "content": "## Additional information\n\n- There is no luggage storage facility at the venue\n- Once you activate a pass, it can only be used by that individual. Passes cannot be re-sold or used by more than one person\n- For detailed information regarding the attractions, please check the [guide](https://mypass.gocity.com/guidebook?destination=new-york&language=en&passType=ALL_INCLUSIVE&brand=GREAT)\n- Please note that the number of attractions is subject to change due to the temporary attraction closure\n\n- Re-entry is not allowed after you leave the venue"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "How to use",
+                        "groups": [
+                            {
+                                "group_name": "Usage validity",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "group_usage_validity",
+                                "content": "## Usage validity\n\n- The voucher is valid for 365 day(s) from the booking confirmation date. It expires at 23:59 on the last day\n\n- The New York All-Inclusive Pass will be activated on your first visit to any attraction, and it is based on consecutive days. For example, if you start using the 2-day pass on Wednesday it will be valid for Wednesday and Thursday"
+                            },
+                            {
+                                "group_name": "How to redeem",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "voucher_type_desc",
+                                "content": "## How to redeem\n\n- Present your mobile voucher\n\n- Enter the venue directly with your voucher\n- Activate your pass by visiting your first attraction\n- Redeemed pass(es) are non-transferable\n- All-inclusive passes remain valid for the consecutive number of days purchased, with 'Day 1' commencing when you first scan the pass at an attraction. Each pass day concludes at midnight, regardless of the time you initially scan your pass at the first attraction"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "Cancelation policy",
+                        "groups": [
+                            {
+                                "group_name": "Cancelation policy",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "policy",
+                                "content": "- You'll get a full refund as long as you don't redeem your voucher\n\n- Vouchers can be used any time within the validity period. Refunds can't be made once it has been redeemed or has expired.\n- If you've participated in at least one activity, visited at least one attraction or used one of the tickets, refunds can't be issued"
+                            }
+                        ]
+                    }
+                ],
+                "sku_list": [
+                    {
+                        "sku_id": 828951611742,
+                        "min_age": 0,
+                        "max_age": 0,
+                        "sku_max_pax": 9999,
+                        "sku_min_pax": 0,
+                        "title": "Adult",
+                        "required": 0,
+                        "sku_type": "ADULT",
+                        "variant_group_key": "",
+                        "variants": [],
+                        "section_info": [],
+                        "cancellation_type": -1,
+                        "cancellation_type_multilang": "",
+                        "voucher_usage": -1,
+                        "voucher_usage_multilang": "",
+                        "timeslot_type": 0,
+                        "instant": 1,
+                        "voucher_type": 0
+                    },
+                    {
+                        "sku_id": 828951611743,
+                        "min_age": 3,
+                        "max_age": 12,
+                        "sku_max_pax": 9999,
+                        "sku_min_pax": 0,
+                        "title": "Child",
+                        "required": 0,
+                        "sku_type": "CHILD",
+                        "variant_group_key": "",
+                        "variants": [],
+                        "section_info": [],
+                        "cancellation_type": -1,
+                        "cancellation_type_multilang": "",
+                        "voucher_usage": -1,
+                        "voucher_usage_multilang": "",
+                        "timeslot_type": 0,
+                        "instant": 1,
+                        "voucher_type": 0
+                    }
+                ],
+                "time_zone": "-05:00",
+                "contact_info": [
+                    {
+                        "key": "title",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "name_english",
+                        "required": true,
+                        "regex": "^[\\s]{0,}[A-Za-z ]*[A-Za-z]{1,128}[\\s]{0,}$"
+                    },
+                    {
+                        "key": "name_local",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "country",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "mobile",
+                        "required": true,
+                        "regex": ""
+                    },
+                    {
+                        "key": "email",
+                        "required": true,
+                        "regex": ""
+                    }
+                ],
+                "spec_attr_list": null,
+                "variant_definition": []
+            },
+            {
+                "package_id": 363027,
+                "package_name": "10-Day Pass",
+                "package_min_pax": 0,
+                "package_max_pax": 9999,
+                "cancellation_type": 9,
+                "cancellation_type_multilang": "Free cancellation before redemption",
+                "voucher_usage": 0,
+                "voucher_usage_multilang": "Show e-voucher",
+                "timeslot_type": 0,
+                "instant": 1,
+                "ticket_type": 0,
+                "is_open_date": true,
+                "section_info": [
+                    {
+                        "section_name": "About this package",
+                        "groups": [
+                            {
+                                "group_name": "What's included",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "inclusive_of",
+                                "content": "## What's included\n\n- Admission to: [100+ New York attractions](https://mypass.gocity.com/guidebook?destination=new-york&language=en&passType=ALL_INCLUSIVE&brand=GREAT)\n- 10-day consecutive attraction pass\n\n- Guidebook\n- 1-day hop-on hop-off bus tour\n- App with attraction information"
+                            },
+                            {
+                                "group_name": "Not included",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "not_inclusive_of",
+                                "content": "## Not included\n\n- Hotel pick up and drop off\n- Meals and beverages\n- Special exhibitions at attractions (Additional costs may apply)\n\n- Other personal expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "Things to note",
+                        "groups": [
+                            {
+                                "group_name": "Eligibility",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "eligibility",
+                                "content": "## Eligibility\n\n- Children aged 13+ will be charged the same rate as adults\n- Children aged 0-2 may enter some attractions for free while some attractions might charge tickets for them. Please check with the attractions directly in advance. You may refer to the digital guide that comes with your pass for more information"
+                            },
+                            {
+                                "group_name": "Additional information",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "additional_information",
+                                "content": "## Additional information\n\n- There is no luggage storage facility at the venue\n- Once you activate a pass, it can only be used by that individual. Passes cannot be re-sold or used by more than one person\n- For detailed information regarding the attractions, please check the [guide](https://mypass.gocity.com/guidebook?destination=new-york&language=en&passType=ALL_INCLUSIVE&brand=GREAT)\n- Please note that the number of attractions is subject to change due to the temporary attraction closure\n\n- Re-entry is not allowed after you leave the venue"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "How to use",
+                        "groups": [
+                            {
+                                "group_name": "Usage validity",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "group_usage_validity",
+                                "content": "## Usage validity\n\n- The voucher is valid for 365 day(s) from the booking confirmation date. It expires at 23:59 on the last day\n\n- The New York All-Inclusive Pass will be activated on your first visit to any attraction, and it is based on consecutive days. For example, if you start using the 2-day pass on Wednesday it will be valid for Wednesday and Thursday"
+                            },
+                            {
+                                "group_name": "How to redeem",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "voucher_type_desc",
+                                "content": "## How to redeem\n\n- Present your mobile voucher\n\n- Enter the venue directly with your voucher\n- Activate your pass by visiting your first attraction\n- Redeemed pass(es) are non-transferable\n- All-inclusive passes remain valid for the consecutive number of days purchased, with 'Day 1' commencing when you first scan the pass at an attraction. Each pass day concludes at midnight, regardless of the time you initially scan your pass at the first attraction"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "Cancelation policy",
+                        "groups": [
+                            {
+                                "group_name": "Cancelation policy",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "policy",
+                                "content": "- You'll get a full refund as long as you don't redeem your voucher\n\n- Vouchers can be used any time within the validity period. Refunds can't be made once it has been redeemed or has expired.\n- If you've participated in at least one activity, visited at least one attraction or used one of the tickets, refunds can't be issued"
+                            }
+                        ]
+                    }
+                ],
+                "sku_list": [
+                    {
+                        "sku_id": 828951611744,
+                        "min_age": 0,
+                        "max_age": 0,
+                        "sku_max_pax": 9999,
+                        "sku_min_pax": 0,
+                        "title": "Adult",
+                        "required": 0,
+                        "sku_type": "ADULT",
+                        "variant_group_key": "",
+                        "variants": [],
+                        "section_info": [],
+                        "cancellation_type": -1,
+                        "cancellation_type_multilang": "",
+                        "voucher_usage": -1,
+                        "voucher_usage_multilang": "",
+                        "timeslot_type": 0,
+                        "instant": 1,
+                        "voucher_type": 0
+                    },
+                    {
+                        "sku_id": 828951611745,
+                        "min_age": 3,
+                        "max_age": 12,
+                        "sku_max_pax": 9999,
+                        "sku_min_pax": 0,
+                        "title": "Child",
+                        "required": 0,
+                        "sku_type": "CHILD",
+                        "variant_group_key": "",
+                        "variants": [],
+                        "section_info": [],
+                        "cancellation_type": -1,
+                        "cancellation_type_multilang": "",
+                        "voucher_usage": -1,
+                        "voucher_usage_multilang": "",
+                        "timeslot_type": 0,
+                        "instant": 1,
+                        "voucher_type": 0
+                    }
+                ],
+                "time_zone": "-05:00",
+                "contact_info": [
+                    {
+                        "key": "title",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "name_english",
+                        "required": true,
+                        "regex": "^[\\s]{0,}[A-Za-z ]*[A-Za-z]{1,128}[\\s]{0,}$"
+                    },
+                    {
+                        "key": "name_local",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "country",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "mobile",
+                        "required": true,
+                        "regex": ""
+                    },
+                    {
+                        "key": "email",
+                        "required": true,
+                        "regex": ""
+                    }
+                ],
+                "spec_attr_list": null,
+                "variant_definition": []
+            }
+        ],
+        "duration": [],
+        "spec_attr_definition": []
+    }
+}
