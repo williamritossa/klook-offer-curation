@@ -1,0 +1,392 @@
+{
+    "success": true,
+    "activity": {
+        "activity_id": 18333,
+        "title": "Chicago CityPASS®",
+        "subtitle": "",
+        "what_we_love": "Explore Chicago’s top attractions while saving up to 49% with Chicago CityPASS®! This all-in-one ticket gives you access to 5 must-see destinations, making your trip both convenient and budget-friendly.\n\nEnjoy admission to the Shedd Aquarium and Skydeck Chicago, then customize your experience by choosing three additional attractions from an exciting lineup: Shoreline Sightseeing Architecture River Tour, Field Museum, 360 CHICAGO Observation Deck, Museum of Science and Industry, Art Institute of Chicago, or Adler Planetarium.\n\nWith 9 days to use your pass, you can explore at your own pace—whether you're admiring world-class art, diving into science and history, or soaking in breathtaking city views. Make the most of your Chicago visit with Chicago CityPASS®!",
+        "video_url": "",
+        "supported_languages": [
+            "en_US",
+            "en_GB",
+            "en_AU",
+            "en_NZ",
+            "en_CA",
+            "en_SG",
+            "en_HK",
+            "en_PH",
+            "en_MY",
+            "en_IN",
+            "en_BS",
+            "zh_CN",
+            "zh_TW",
+            "zh_HK",
+            "th_TH",
+            "vi_VN",
+            "id_ID",
+            "ja_JP",
+            "fr_FR",
+            "de_DE",
+            "it_IT",
+            "es_ES",
+            "ru_RU",
+            "ko_KR",
+            "ms_MY"
+        ],
+        "available_date": "2025-09-29 00:00:00",
+        "location": "41.8781136,-87.6297982",
+        "address_desc_multilang": "Chicago",
+        "price": "",
+        "vat_price": null,
+        "currency": "",
+        "has_msp": true,
+        "images": [
+            {
+                "image_alt": "Chicago CityPass ticket",
+                "image_desc": "",
+                "width": 1920,
+                "height": 1080,
+                "image_type": "BANNER",
+                "image_url_host": "https://res.klook.com/image/upload/activities/z9xi1ghd0vioebao35lf.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "Experience breathtaking views from the stunning 360 Chicago Observation Deck!",
+                "image_desc": "Experience breathtaking views from the stunning 360 Chicago Observation Deck!",
+                "width": 3000,
+                "height": 2000,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/t6wpfeyi4sy4alrxsxsn.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "Stand on the edge of the city at the impressive Skydeck Chicago!",
+                "image_desc": "Stand on the edge of the city at the impressive Skydeck Chicago!",
+                "width": 3000,
+                "height": 2000,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/u5rxjai8dibz7z6hpb2a.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "Explore the wonders of the universe at the Adler Planetarium",
+                "image_desc": "Explore the wonders of the universe at the Adler Planetarium",
+                "width": 3000,
+                "height": 2000,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/auihadhuisgpefq4ehtx.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "Celebrate art and culture with world-renowned masterpieces at the Art Institute",
+                "image_desc": "Celebrate art and culture with world-renowned masterpieces at the Art Institute",
+                "width": 3000,
+                "height": 2000,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/sr8beiu8lmpfz3a1mezj.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "Discover ancient artifacts and natural history at the fascinating Field Museum",
+                "image_desc": "Discover ancient artifacts and natural history at the fascinating Field Museum",
+                "width": 3000,
+                "height": 2000,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/c10bzhx1rnnpjbplkk0k.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "Dive into aquatic life and vibrant ecosystems at Shedd Aquarium",
+                "image_desc": "Dive into aquatic life and vibrant ecosystems at Shedd Aquarium",
+                "width": 3000,
+                "height": 2000,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/gehfsafu4r9rbbycrkfr.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "Cruise along the Chicago River and admire iconic architecture on this scenic tour",
+                "image_desc": "Cruise along the Chicago River and admire iconic architecture on this scenic tour",
+                "width": 3000,
+                "height": 2000,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/yc1ygw9msuchnmbg7fqj.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "Ignite curiosity with hands-on exhibits at the Museum of Science & Industry!",
+                "image_desc": "Ignite curiosity with hands-on exhibits at the Museum of Science & Industry!",
+                "width": 3000,
+                "height": 2000,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/rvxsvjz8qqi2aqpmkb6z.jpg",
+                "group_id": "",
+                "images": null
+            }
+        ],
+        "city_info": [
+            {
+                "city_id": 701807,
+                "city_name": "Chicago",
+                "country_id": 1028,
+                "country_name": "United States"
+            }
+        ],
+        "departure_city_info": [],
+        "category_info": {
+            "sub_category_id": 1,
+            "sub_category_name": "Attractions ",
+            "leaf_category_id": 120,
+            "leaf_category_name": "Attractions Pass"
+        },
+        "section_info": [
+            {
+                "section_name": "Highlights",
+                "groups": [
+                    {
+                        "group_name": "Activity Selling Points - Free text",
+                        "group_type": 0,
+                        "group_type_name": "normal",
+                        "ref_field_tag": "summary",
+                        "content": "* Discover Chicago's best attractions at great savings and enjoy instant delivery of convenient mobile tickets\n* Spend less and experience more when you save up to 49% at Chicago's top attractions\n* Explore the city at your own pace and time with this pass that's valid for 9 consecutive days\n* You can enjoy the city's landmarks, such as the Shedd Aquarium, Skydeck Chicago, and more"
+                    }
+                ]
+            },
+            {
+                "section_name": "Date Description",
+                "groups": [
+                    {
+                        "group_name": "Date Description",
+                        "group_type": 0,
+                        "group_type_name": "normal",
+                        "ref_field_tag": "date_description",
+                        "content": "Please select an estimated redemption date. The date you select is for booking reference only"
+                    }
+                ]
+            }
+        ],
+        "package_list": [
+            {
+                "package_id": 43425,
+                "package_name": "5-attraction pass",
+                "package_min_pax": 1,
+                "package_max_pax": 9,
+                "cancellation_type": 9,
+                "cancellation_type_multilang": "Free cancellation before redemption",
+                "voucher_usage": 0,
+                "voucher_usage_multilang": "Show e-voucher",
+                "timeslot_type": 0,
+                "instant": 1,
+                "ticket_type": 0,
+                "is_open_date": true,
+                "section_info": [
+                    {
+                        "section_name": "Package Icon",
+                        "groups": [
+                            {
+                                "group_name": "Redemption Process",
+                                "group_type": 1,
+                                "group_type_name": "icon",
+                                "ref_field_tag": "redemption_process",
+                                "content": "Enter with voucher"
+                            },
+                            {
+                                "group_name": "Advance Reservation",
+                                "group_type": 1,
+                                "group_type_name": "icon",
+                                "ref_field_tag": "",
+                                "content": "Reservation needed"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "About this package",
+                        "groups": [
+                            {
+                                "group_name": "What's included",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "inclusive_of",
+                                "content": "## What's included\n\n- 9-day consecutive attraction pass\n- Admission to: **5 attractions (2 pre-selected attractions and 3 attractions for you to choose)**\n- Admission to: **Shedd Aquarium** – All-access admission, plus a 4-D experience (subject to availability)\n- Admission to: **Skydeck Chicago** – Expedited entry\n\n- **Includes a choice of admission to 3 of the following activities:**\n- Admission to: **Shoreline Sightseeing Architecture River Tour**\n- Admission to: **Field Museum** – All-access pass (specially ticketed exhibitions outside of All-Access Pass may be subject to additional charges)\n- Admission to: **360 CHICAGO Observation Deck** - Fast pass entry admission\n- Admission to: **Griffin Museum of Science and Industry** – Museum entry, plus one timed-entry experience to the Giant Dome Theater film or Motion Ride\n- Admission to: **Art Institute of Chicago** – Fast pass admission to the permanent collection and non-ticketed special exhibitions\n- Admission to: **Adler Planetarium** – Museum entry, plus 2 Sky Shows"
+                            },
+                            {
+                                "group_name": "Not included",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "not_inclusive_of",
+                                "content": "## Not included\n\n\n- Transport\n- Other personal expenses"
+                            },
+                            {
+                                "group_name": "Eligibility",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "eligibility",
+                                "content": "## Eligibility\n\n- Children aged 0-11 must be accompanied by a paying adult\n- Children aged 12+ will be charged the same rate as adults\n- Some attractions may require you to stand in the main ticket line to secure a free/discounted child’s ticket\n- **Free Admission Eligibility:**\n- **Shedd Aquarium:** Free for children aged 0-2\n- **Skydeck Chicago:** Free for children aged 0-2\n- **Shoreline Sightseeing Architecture River Tour:** Free for children aged 0-2\n- **Field Museum:** Free for children aged 0-2\n- **360 CHICAGO Observation Deck:** Free for children aged 0-2\n- **Griffin Museum of Science and Industry:** Free for children aged 0-2\n- **Art Institute of Chicago:** Free for children aged 0-13\n- **Adler Planetarium:** Free for children aged 0-2"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "Terms & Conditions",
+                        "groups": [
+                            {
+                                "group_name": "Confirmation",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "confirmation_details",
+                                "content": "## Confirmation\n\n- You'll get confirmation within minutes. If you don't see any confirmation, reach out to our customer support."
+                            },
+                            {
+                                "group_name": "Cancelation policy",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "policy",
+                                "content": "## Cancelation policy\n\n\n- Tickets can be used any time within the validity period. Refunds can't be made once it has been redeemed or has expired.\n- If you've participated in at least one activity, visited at least one attraction or used one of the tickets, refunds can't be issued"
+                            },
+                            {
+                                "group_name": "Additional information",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "additional_information",
+                                "content": "## Additional information\n\n\n- Re-entry is not allowed after you leave the venue\n- Please refer to the venue's official website for more information about PWD accessibility\n\n- Please plan ahead: Advance reservations are required at some attractions and capacity may be limited"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "How to use",
+                        "groups": [
+                            {
+                                "group_name": "Usage validity",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "group_usage_validity",
+                                "content": "## Usage validity\n\n- The voucher is valid for 365 day(s) from the booking confirmation date. It expires at 23:59 on the last day\n\n- Once redeemed, the voucher is valid for 9 consecutive days, including the first day of use"
+                            },
+                            {
+                                "group_name": "Reservation required",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "redemption_process",
+                                "content": "## Reservation required\n\n- Please reserve as much in advance to participation as possible\n- Reservation method:\n- Website: [link](https://my.citypass.com/welcome)\n- Visit my.citypass.com or download the My CityPASS® app to access your tickets, make reservations (if required), and view attraction details, including admission information\n- Please note that reservations are required for entry to the Shedd Aquarium, Skydeck Chicago, Shoreline Sightseeing Architecture River Tour, 360 CHICAGO Observation Deck, and Griffin Museum of Science and Industry"
+                            },
+                            {
+                                "group_name": "Opening hours",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "open_hours",
+                                "content": "## Opening hours\n\n- For Shedd Aquarium, please refer to the [opening hours]() for details\n- For Skydeck Chicago, please refer to the [opening hours](https://theskydeck.com/plan-a-visit/) for details\n- For Shoreline Sightseeing Architecture River Tour, please refer to the [schedule](https://shorelinesightseeing.com/architecture-river-tour/) for details\n- For Field Museum, please refer to the [opening hours](https://www.fieldmuseum.org/) for details\n- For 360 CHICAGO Observation Deck, please refer to the [opening hours](https://360chicago.com/plan-your-visit) for details\n- For Griffin Museum of Science and Industry, please refer to the [opening hours](https://www.msichicago.org/visit/museum-hours) for details\n- For Art Institute of Chicago, please refer to the [opening hours](https://www.artic.edu/visit) for details\n- For Adler Planetarium, please refer to the [opening hours](https://www.adlerplanetarium.org/visit/your-visit/) for details"
+                            },
+                            {
+                                "group_name": "Voucher type",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "voucher_type_desc",
+                                "content": "## Voucher type\n\n- Present your mobile voucher"
+                            },
+                            {
+                                "group_name": "How to redeem",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "redemption_process",
+                                "content": "## How to redeem\n\n- Activate your pass by visiting your first attraction\n- You can only enter each attraction once\n\n- Your mobile ticket will be scanned for admission at each attraction you visit"
+                            },
+                            {
+                                "group_name": "Address",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "location",
+                                "content": "## Address\n\n- **Shedd Aquarium**\n- 1200 S Lake Shore Dr, Chicago, IL 60605, United States\n- Please refer to the [map](https://www.google.com/maps/place/Shedd+Aquarium/@41.8675766,-87.6166129,17z/data=!3m2!4b1!5s0x880e2b637f0dfc79:0xf2dd92cafc3aeb65!4m6!3m5!1s0x880e2b635fb775f9:0x32059de3df50fbdf!8m2!3d41.8675726!4d-87.614038!16zL20vMDJqdzB6?authuser=0&entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D) for assistance\n\n- **Skydeck Chicago**\n- 233 S Wacker Dr, Chicago, IL 60606, United States\n- Please refer to the [map](https://www.google.com/maps/place/Skydeck+Chicago/@41.8788801,-87.6384899,17z/data=!3m2!4b1!5s0x880e2cb9ef33ea47:0x488801c0e065a0e!4m6!3m5!1s0x880e2cbee269fbbb:0xcf09307f0945d4fd!8m2!3d41.8788761!4d-87.635915!16s%2Fg%2F1hhnxgkgv?authuser=0&entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D) for assistance\n\n- **Shoreline Sightseeing Architecture River Tour**\n- **Michigan Avenue:** 401 Michigan Ave, Chicago, IL 60611, USA\n- Please refer to the [map](https://www.google.com/maps/place/Equitable+Building,+401+Michigan+Ave,+Chicago,+IL+60611,+USA/@41.8894607,-87.6225942,18z/data=!4m6!3m5!1s0x880e2caeb090f199:0x59416c1cc80ae2b7!8m2!3d41.8896224!4d-87.6228785!16s%2Fm%2F0vprnbc?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D) for assistance\n- **Navy Pier:** 124 N Streeter Dr, Chicago, IL 60611, USA\n- Please refer to the [map](https://www.google.com/maps/place/124+N+Streeter+Dr,+Chicago,+IL+60611,+USA/@41.8908818,-87.6105919,17z/data=!3m1!4b1!4m6!3m5!1s0x880e2b382c26ea4d:0x88621946170a6e0d!8m2!3d41.8908818!4d-87.6105919!16s%2Fg%2F11t0rp0ssk?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D) for assistance\n\n- **Field Museum**\n- 1400 S Lake Shore Dr, Chicago, IL 60605, United States\n- Please refer to the [map](https://www.google.com/maps/place/Field+Museum/@41.866265,-87.6195554,17z/data=!3m1!4b1!4m6!3m5!1s0x880e2b7d33304057:0xb51220475f7ec7da!8m2!3d41.866261!4d-87.6169805!16zL20vMDIxY3pj?authuser=0&entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D) for assistance\n\n- **360 CHICAGO Observation Deck**\n- 875 N Michigan Ave 94th floor, Chicago, IL 60611, United States\n- Please refer to the [map](https://www.google.com/maps/place/360+CHICAGO/@41.8990144,-87.6258165,17z/data=!3m2!4b1!5s0x880fd35474f82177:0xa1d65d6bd363665b!4m6!3m5!1s0x880fd3541290b235:0x7314937a7703eb74!8m2!3d41.8990104!4d-87.6232416!16s%2Fg%2F12lwc7328?authuser=0&entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D) for assistance\n\n- **Griffin Museum of Science and Industry**\n- 5700 S Lake Shore Dr, Chicago, IL 60637, United States\n- Please refer to the [map](https://www.google.com/maps/place/Griffin+Museum+of+Science+and+Industry/@41.7905766,-87.5856408,17z/data=!3m1!4b1!4m6!3m5!1s0x880e290a6001df1d:0xfcc2caa7317e306!8m2!3d41.7905726!4d-87.5830659!16zL20vMGQ5d3o?authuser=0&entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D) for assistance\n\n- **Art Institute of Chicago**\n- 111 S Michigan Ave, Chicago, IL 60603, United States\n- Please refer to the [map](https://www.google.com/maps/place/The+Art+Institute+of+Chicago/@41.8796071,-87.6249253,17z/data=!3m1!4b1!4m6!3m5!1s0x880e2ca3e2d94695:0x4829f3cc9ca2d0de!8m2!3d41.8796031!4d-87.6223504!16s%2Fm%2F027hqc_?authuser=0&entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D) for assistance\n\n- **Adler Planetarium**\n- 1300 S Lake Shore Dr, Chicago, IL 60605, United States\n- Please refer to the [map](https://www.google.com/maps/place/Adler+Planetarium/@41.866105,-87.6095629,17.29z/data=!4m6!3m5!1s0x880e2b6fb7b114b5:0x6920a3aa12218ea6!8m2!3d41.8664066!4d-87.6067898!16zL20vMDFkbHpj?authuser=0&entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D) for assistance"
+                            }
+                        ]
+                    }
+                ],
+                "sku_list": [
+                    {
+                        "sku_id": 818333000101,
+                        "min_age": 0,
+                        "max_age": 0,
+                        "sku_max_pax": 9998,
+                        "sku_min_pax": 1,
+                        "title": "Adult",
+                        "required": 1,
+                        "sku_type": "ADULT",
+                        "variant_group_key": "",
+                        "variants": [],
+                        "section_info": [],
+                        "cancellation_type": -1,
+                        "cancellation_type_multilang": "",
+                        "voucher_usage": -1,
+                        "voucher_usage_multilang": "",
+                        "timeslot_type": 0,
+                        "instant": 1,
+                        "voucher_type": 0
+                    },
+                    {
+                        "sku_id": 818333000102,
+                        "min_age": 3,
+                        "max_age": 11,
+                        "sku_max_pax": 9999,
+                        "sku_min_pax": 0,
+                        "title": "Child(3-11)",
+                        "required": 0,
+                        "sku_type": "CHILD",
+                        "variant_group_key": "",
+                        "variants": [],
+                        "section_info": [],
+                        "cancellation_type": -1,
+                        "cancellation_type_multilang": "",
+                        "voucher_usage": -1,
+                        "voucher_usage_multilang": "",
+                        "timeslot_type": 0,
+                        "instant": 1,
+                        "voucher_type": 0
+                    }
+                ],
+                "time_zone": "-06:00",
+                "contact_info": [
+                    {
+                        "key": "title",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "name_english",
+                        "required": true,
+                        "regex": "^[\\s]{0,}[A-Za-z ]*[A-Za-z]{1,128}[\\s]{0,}$"
+                    },
+                    {
+                        "key": "name_local",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "country",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "mobile",
+                        "required": true,
+                        "regex": ""
+                    },
+                    {
+                        "key": "email",
+                        "required": true,
+                        "regex": ""
+                    }
+                ],
+                "spec_attr_list": null,
+                "variant_definition": null
+            }
+        ],
+        "duration": [],
+        "spec_attr_definition": []
+    }
+}

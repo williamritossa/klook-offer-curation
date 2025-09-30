@@ -1,0 +1,943 @@
+{
+    "success": true,
+    "activity": {
+        "activity_id": 6227,
+        "title": "Go City - Miami All-Inclusive Pass",
+        "subtitle": "Go City and Go See It All.",
+        "what_we_love": "Discover over 30 top Miami attractions and save up to **50%** with Go City. Your All-Inclusive Pass gives you 1, 2, 3, or 5-days to see and experience as much of the area as possible. Take a tour of Miami's colorful art district, visit the critters at Zoo Miami, ride an airboat through the Everglades, hop on-board the South Beach Duck Tour, gaze at Florida's stunning coral reef on a glass bottom boat cruise and so much more.\n\nYour All-Inclusive Pass includes:\n* Access to 30+ attractions over 1, 2, 3 or 5 non-consecutive days (taken anytime over a 2-week period)\n* Experiences in Miami, Ft. Lauderdale, the Keys, Orlando and more - perfect for exploring South and Central Florida\n* All on one app - download to your mobile device and scan your pass for admission\n \nSome attractions may require advanced reservations. Follow the instructions on the app before your visit.",
+        "video_url": "https://res.klook.com/video/upload/fl_lossy.progressive,q_85,f_auto/c_fill,,/c_scale,h_540,vc_auto/c_scale,g_north_west,h_20,l_whitelogo_hz5dq1,o_30,x_70,y_480/c_scale,f_mp4,fl_splice,h_540,l_video:ending_trgtvv/v1696907692/activities/b5mxwhoxhse9xu1a4ycg.mp4",
+        "supported_languages": [
+            "en_US",
+            "id_ID",
+            "zh_CN",
+            "zh_TW",
+            "zh_HK",
+            "vi_VN",
+            "ko_KR",
+            "th_TH",
+            "en_BS",
+            "en_IN",
+            "en_MY",
+            "en_PH",
+            "en_HK",
+            "en_SG",
+            "en_CA",
+            "en_NZ",
+            "en_AU",
+            "en_GB",
+            "fr_FR",
+            "de_DE",
+            "es_ES",
+            "it_IT",
+            "ru_RU",
+            "ja_JP",
+            "ms_MY"
+        ],
+        "available_date": "2025-09-29 00:00:00",
+        "location": "25.776261,-80.186096",
+        "address_desc_multilang": "FPL Solar Amphitheater at Bayfront Park",
+        "price": "",
+        "vat_price": null,
+        "currency": "",
+        "has_msp": false,
+        "images": [
+            {
+                "image_alt": "Go City - Miami All-Inclusive Pass",
+                "image_desc": "",
+                "width": 1800,
+                "height": 1200,
+                "image_type": "BANNER",
+                "image_url_host": "https://res.klook.com/image/upload/activities/e7osnwm70ceovz1cqtcu.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "People in an airboat",
+                "image_desc": "Hop on an airboat and explore the naturistic landscapes of the Everglades",
+                "width": 1199,
+                "height": 799,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/vylfibiwnbbzblgg7sbz.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "View of buildings",
+                "image_desc": "Explore the unique art deco architecture of the Miami buildings on a fascinating tour",
+                "width": 1200,
+                "height": 800,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/r69kzxufironarlejfop.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "People on a hop on hop off bus",
+                "image_desc": "Get to where you want to be with a hop-on, hop-off ticket",
+                "width": 1200,
+                "height": 800,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/xv9yytshdplyl622s5lr.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "Children walking with characters",
+                "image_desc": "Explore the Miami Seaquarium and learn all about the underwater world",
+                "width": 1200,
+                "height": 800,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/mxr0zvrqmsfk46l4d1uc.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "Children playing with sand",
+                "image_desc": "Get interactive at WonderWorks and explore a realm of fun and wonder",
+                "width": 1200,
+                "height": 800,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/cipmnaej0piowugqkstw.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "People feeding alligators",
+                "image_desc": "Bravely feed the mighty alligators at the Everglades Alligator Farm",
+                "width": 1199,
+                "height": 799,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/rimapl5emqkezvapopgv.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "People driving go karts",
+                "image_desc": "Zoom past in a track at the Fun Spot America Theme Park",
+                "width": 870,
+                "height": 580,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/rxz6nm16mqfoftel7bg1.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "Child looking at a sea lion",
+                "image_desc": "Say hello to sea creatures as you get sight of the world beneath the water at Zoo Miami",
+                "width": 1199,
+                "height": 799,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/iocrkozdiqxruu54ce2w.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "People snorkelling",
+                "image_desc": "Dive into deep crystal-like waters for a Miami snorkeling adventure",
+                "width": 1200,
+                "height": 800,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/fss9wc60p2delbhnc9qz.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "Boat cruising",
+                "image_desc": "Take a cruise to visit the Millionaire's Row, home to many celebrities",
+                "width": 1200,
+                "height": 800,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/rq9btpnsnznblryovord.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "Kennedy Space Center",
+                "image_desc": "Explore the wide space landscape at the Kennedy Space Center Visitor Complex",
+                "width": 1200,
+                "height": 800,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/wde9uadqt33mpddpg3kp.jpg",
+                "group_id": "",
+                "images": null
+            }
+        ],
+        "city_info": [
+            {
+                "city_id": 198,
+                "city_name": "Miami",
+                "country_id": 1028,
+                "country_name": "United States"
+            }
+        ],
+        "departure_city_info": [],
+        "category_info": {
+            "sub_category_id": 1,
+            "sub_category_name": "Attractions ",
+            "leaf_category_id": 120,
+            "leaf_category_name": "Attractions Pass"
+        },
+        "section_info": [
+            {
+                "section_name": "Highlights",
+                "groups": [
+                    {
+                        "group_name": "Activity Selling Points - Free text",
+                        "group_type": 0,
+                        "group_type_name": "normal",
+                        "ref_field_tag": "summary",
+                        "content": "* Choose from between 1- to 5-Day Pass and visit as many Miami attractions and scenic spots as you can\n* Pick from over 30 available attractions and schedule where you want to go at your own pace\n* Visit the Miami Seaquarium, WonderWorks, Miami Zoo and many more!\n* Enjoy discounts on other activities, shops, or dining experiences for the duration of your selected day pass\n* Get a free digital guidebook to plan your itinerary"
+                    }
+                ]
+            },
+            {
+                "section_name": "Date Description",
+                "groups": [
+                    {
+                        "group_name": "Date Description",
+                        "group_type": 0,
+                        "group_type_name": "normal",
+                        "ref_field_tag": "date_description",
+                        "content": "Please select a redemption date"
+                    }
+                ]
+            }
+        ],
+        "package_list": [
+            {
+                "package_id": 20829,
+                "package_name": "1 Day Pass",
+                "package_min_pax": 1,
+                "package_max_pax": 9999,
+                "cancellation_type": 9,
+                "cancellation_type_multilang": "Free cancellation before redemption",
+                "voucher_usage": 0,
+                "voucher_usage_multilang": "Show e-voucher",
+                "timeslot_type": 0,
+                "instant": 1,
+                "ticket_type": 0,
+                "is_open_date": true,
+                "section_info": [
+                    {
+                        "section_name": "Package Icon",
+                        "groups": [
+                            {
+                                "group_name": "Redemption Process",
+                                "group_type": 1,
+                                "group_type_name": "icon",
+                                "ref_field_tag": "redemption_process",
+                                "content": "Enter with voucher"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "About this package",
+                        "groups": [
+                            {
+                                "group_name": "What's included",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "inclusive_of",
+                                "content": "## What's included\n\n- 1-day attraction pass\n- Admission to: [30+ Miami Attractions](https://gocity.com/miami/en-us/guidebook/all-inclusive)\n\n- Digital guide with attraction information and instructions"
+                            },
+                            {
+                                "group_name": "Not included",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "not_inclusive_of",
+                                "content": "## Not included\n\n\n- Other personal expenses"
+                            },
+                            {
+                                "group_name": "Eligibility",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "eligibility",
+                                "content": "## Eligibility\n\n- Children aged 13+ will be charged the same rate as adults\n- Children aged 0-2 may enter some attractions for free while some attractions might charge tickets for them. Please check with the attractions directly in advance. You may refer to the digital guide that comes with your pass for more information"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "Terms & Conditions",
+                        "groups": [
+                            {
+                                "group_name": "Confirmation",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "confirmation_details",
+                                "content": "## Confirmation\n\n- You'll get confirmation within minutes. If you don't see any confirmation, reach out to our customer support."
+                            },
+                            {
+                                "group_name": "Cancelation policy",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "policy",
+                                "content": "## Cancelation policy\n\n- You'll get a full refund as long as you don't redeem your voucher\n\n- Vouchers can be used any time within the validity period. Refunds can't be made once it has been redeemed or has expired.\n- If you've participated in at least one activity, visited at least one attraction or used one of the tickets, refunds can't be issued"
+                            },
+                            {
+                                "group_name": "Additional information",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "additional_information",
+                                "content": "## Additional information\n\n- Once you activate a pass, it can only be used by that individual. Passes cannot be re-sold or used by more than one person\n\n- For detailed information regarding the attractions, please check the [guide](https://gocity.com/miami/en-us/guidebook/all-inclusive)\n- Please note that the number of attractions is subject to change due to the temporary attraction closure"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "How to use",
+                        "groups": [
+                            {
+                                "group_name": "Usage validity",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "group_usage_validity",
+                                "content": "## Usage validity\n\n- The voucher is valid for 365 day(s) from the booking confirmation date. It expires at 23:59 the day after the last day"
+                            },
+                            {
+                                "group_name": "Voucher type",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "voucher_type_desc",
+                                "content": "## Voucher type\n\n- Present your mobile voucher"
+                            },
+                            {
+                                "group_name": "How to redeem",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "redemption_process",
+                                "content": "## How to redeem\n\n- Enter the venue directly with your voucher\n- Activate your pass by visiting your first attraction\n- You can only enter each attraction once"
+                            }
+                        ]
+                    }
+                ],
+                "sku_list": [
+                    {
+                        "sku_id": 8062270501,
+                        "min_age": 0,
+                        "max_age": 0,
+                        "sku_max_pax": 9999,
+                        "sku_min_pax": 0,
+                        "title": "Adult",
+                        "required": 0,
+                        "sku_type": "ADULT",
+                        "variant_group_key": "",
+                        "variants": [],
+                        "section_info": [],
+                        "cancellation_type": -1,
+                        "cancellation_type_multilang": "",
+                        "voucher_usage": -1,
+                        "voucher_usage_multilang": "",
+                        "timeslot_type": 0,
+                        "instant": 1,
+                        "voucher_type": 0
+                    },
+                    {
+                        "sku_id": 8062270502,
+                        "min_age": 3,
+                        "max_age": 12,
+                        "sku_max_pax": 9999,
+                        "sku_min_pax": 0,
+                        "title": "Child(3-12)",
+                        "required": 0,
+                        "sku_type": "CHILD",
+                        "variant_group_key": "",
+                        "variants": [],
+                        "section_info": [],
+                        "cancellation_type": -1,
+                        "cancellation_type_multilang": "",
+                        "voucher_usage": -1,
+                        "voucher_usage_multilang": "",
+                        "timeslot_type": 0,
+                        "instant": 1,
+                        "voucher_type": 0
+                    }
+                ],
+                "time_zone": "-05:00",
+                "contact_info": [
+                    {
+                        "key": "title",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "name_english",
+                        "required": true,
+                        "regex": "^[\\s]{0,}[A-Za-z ]*[A-Za-z]{1,128}[\\s]{0,}$"
+                    },
+                    {
+                        "key": "name_local",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "country",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "mobile",
+                        "required": true,
+                        "regex": ""
+                    },
+                    {
+                        "key": "email",
+                        "required": true,
+                        "regex": ""
+                    }
+                ],
+                "spec_attr_list": null,
+                "variant_definition": null
+            },
+            {
+                "package_id": 13725,
+                "package_name": "2 Day Pass",
+                "package_min_pax": 1,
+                "package_max_pax": 9999,
+                "cancellation_type": 9,
+                "cancellation_type_multilang": "Free cancellation before redemption",
+                "voucher_usage": 0,
+                "voucher_usage_multilang": "Show e-voucher",
+                "timeslot_type": 0,
+                "instant": 1,
+                "ticket_type": 0,
+                "is_open_date": true,
+                "section_info": [
+                    {
+                        "section_name": "Package Icon",
+                        "groups": [
+                            {
+                                "group_name": "Redemption Process",
+                                "group_type": 1,
+                                "group_type_name": "icon",
+                                "ref_field_tag": "redemption_process",
+                                "content": "Enter with voucher"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "About this package",
+                        "groups": [
+                            {
+                                "group_name": "What's included",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "inclusive_of",
+                                "content": "## What's included\n\n- 2-day attraction pass\n- Admission to: [30+ Miami Attractions](https://gocity.com/miami/en-us/guidebook/all-inclusive)\n\n- Digital guide with attraction information and instructions"
+                            },
+                            {
+                                "group_name": "Not included",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "not_inclusive_of",
+                                "content": "## Not included\n\n\n- Other personal expenses"
+                            },
+                            {
+                                "group_name": "Eligibility",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "eligibility",
+                                "content": "## Eligibility\n\n- Children aged 13+ will be charged the same rate as adults\n- Children aged 0-2 may enter some attractions for free while some attractions might charge tickets for them. Please check with the attractions directly in advance. You may refer to the digital guide that comes with your pass for more information"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "Terms & Conditions",
+                        "groups": [
+                            {
+                                "group_name": "Confirmation",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "confirmation_details",
+                                "content": "## Confirmation\n\n- You'll get confirmation within minutes. If you don't see any confirmation, reach out to our customer support."
+                            },
+                            {
+                                "group_name": "Cancelation policy",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "policy",
+                                "content": "## Cancelation policy\n\n\n- You'll get a full refund as long as you don't redeem your voucher\n\n- Vouchers can be used any time within the validity period. Refunds can't be made once it has been redeemed or has expired.\n- If you've participated in at least one activity, visited at least one attraction or used one of the tickets, refunds can't be issued"
+                            },
+                            {
+                                "group_name": "Additional information",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "additional_information",
+                                "content": "## Additional information\n\n- Once you activate a pass, it can only be used by that individual. Passes cannot be re-sold or used by more than one person\n\n- For detailed information regarding the attractions, please check the [guide](https://gocity.com/miami/en-us/guidebook/all-inclusive)\n- Please note that the number of attractions is subject to change due to the temporary attraction closure"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "How to use",
+                        "groups": [
+                            {
+                                "group_name": "Usage validity",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "group_usage_validity",
+                                "content": "## Usage validity\n\n- The voucher is valid for 365 day(s) from the booking confirmation date. It expires at 23:59 the day after the last day\n\n- The Miami All-Inclusive Pass will be activated on your first visit to any attraction, and it is based on a non-consecutive number of days over a 2-week period. For example, if you start using the 2-day pass on Wednesday it will be valid on any other day within the following 2 weeks"
+                            },
+                            {
+                                "group_name": "Voucher type",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "voucher_type_desc",
+                                "content": "## Voucher type\n\n- Present your mobile voucher"
+                            },
+                            {
+                                "group_name": "How to redeem",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "redemption_process",
+                                "content": "## How to redeem\n\n- Enter the venue directly with your voucher\n- Activate your pass by visiting your first attraction\n- You can only enter each attraction once"
+                            }
+                        ]
+                    }
+                ],
+                "sku_list": [
+                    {
+                        "sku_id": 8062270201,
+                        "min_age": 0,
+                        "max_age": 0,
+                        "sku_max_pax": 9999,
+                        "sku_min_pax": 0,
+                        "title": "Adult",
+                        "required": 0,
+                        "sku_type": "ADULT",
+                        "variant_group_key": "",
+                        "variants": [],
+                        "section_info": [],
+                        "cancellation_type": -1,
+                        "cancellation_type_multilang": "",
+                        "voucher_usage": -1,
+                        "voucher_usage_multilang": "",
+                        "timeslot_type": 0,
+                        "instant": 1,
+                        "voucher_type": 0
+                    },
+                    {
+                        "sku_id": 8062270202,
+                        "min_age": 3,
+                        "max_age": 12,
+                        "sku_max_pax": 9999,
+                        "sku_min_pax": 0,
+                        "title": "Child(3-12)",
+                        "required": 0,
+                        "sku_type": "CHILD",
+                        "variant_group_key": "",
+                        "variants": [],
+                        "section_info": [],
+                        "cancellation_type": -1,
+                        "cancellation_type_multilang": "",
+                        "voucher_usage": -1,
+                        "voucher_usage_multilang": "",
+                        "timeslot_type": 0,
+                        "instant": 1,
+                        "voucher_type": 0
+                    }
+                ],
+                "time_zone": "-05:00",
+                "contact_info": [
+                    {
+                        "key": "title",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "name_english",
+                        "required": true,
+                        "regex": "^[\\s]{0,}[A-Za-z ]*[A-Za-z]{1,128}[\\s]{0,}$"
+                    },
+                    {
+                        "key": "name_local",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "country",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "mobile",
+                        "required": true,
+                        "regex": ""
+                    },
+                    {
+                        "key": "email",
+                        "required": true,
+                        "regex": ""
+                    }
+                ],
+                "spec_attr_list": null,
+                "variant_definition": null
+            },
+            {
+                "package_id": 20830,
+                "package_name": "3 Day Pass",
+                "package_min_pax": 1,
+                "package_max_pax": 9999,
+                "cancellation_type": 9,
+                "cancellation_type_multilang": "Free cancellation before redemption",
+                "voucher_usage": 0,
+                "voucher_usage_multilang": "Show e-voucher",
+                "timeslot_type": 0,
+                "instant": 1,
+                "ticket_type": 0,
+                "is_open_date": true,
+                "section_info": [
+                    {
+                        "section_name": "Package Icon",
+                        "groups": [
+                            {
+                                "group_name": "Redemption Process",
+                                "group_type": 1,
+                                "group_type_name": "icon",
+                                "ref_field_tag": "redemption_process",
+                                "content": "Enter with voucher"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "About this package",
+                        "groups": [
+                            {
+                                "group_name": "What's included",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "inclusive_of",
+                                "content": "## What's included\n\n- 3-day attraction pass\n- Admission to: [30+ Miami Attractions](https://gocity.com/miami/en-us/guidebook/all-inclusive)\n\n- Digital guide with attraction information and instructions"
+                            },
+                            {
+                                "group_name": "Not included",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "not_inclusive_of",
+                                "content": "## Not included\n\n\n- Other personal expenses"
+                            },
+                            {
+                                "group_name": "Eligibility",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "eligibility",
+                                "content": "## Eligibility\n\n- Children aged 13+ will be charged the same rate as adults\n- Children aged 0-2 may enter some attractions for free while some attractions might charge tickets for them. Please check with the attractions directly in advance. You may refer to the digital guide that comes with your pass for more information"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "Terms & Conditions",
+                        "groups": [
+                            {
+                                "group_name": "Confirmation",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "confirmation_details",
+                                "content": "## Confirmation\n\n- You'll get confirmation within minutes. If you don't see any confirmation, reach out to our customer support."
+                            },
+                            {
+                                "group_name": "Cancelation policy",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "policy",
+                                "content": "## Cancelation policy\n\n- You'll get a full refund as long as you don't redeem your voucher\n\n- Vouchers can be used any time within the validity period. Refunds can't be made once it has been redeemed or has expired.\n- If you've participated in at least one activity, visited at least one attraction or used one of the tickets, refunds can't be issued"
+                            },
+                            {
+                                "group_name": "Additional information",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "additional_information",
+                                "content": "## Additional information\n\n- Once you activate a pass, it can only be used by that individual. Passes cannot be re-sold or used by more than one person\n\n- For detailed information regarding the attractions, please check the [guide](https://gocity.com/miami/en-us/guidebook/all-inclusive)\n- Please note that the number of attractions is subject to change due to the temporary attraction closure"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "How to use",
+                        "groups": [
+                            {
+                                "group_name": "Usage validity",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "group_usage_validity",
+                                "content": "## Usage validity\n\n- The voucher is valid for 365 day(s) from the booking confirmation date. It expires at 23:59 the day after the last day\n\n- The Miami All-Inclusive Pass will be activated on your first visit to any attraction, and it is based on a non-consecutive number of days over a 2-week period. For example, if you start using the 2-day pass on Wednesday it will be valid on any other day within the following 2 weeks"
+                            },
+                            {
+                                "group_name": "Voucher type",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "voucher_type_desc",
+                                "content": "## Voucher type\n\n- Present your mobile voucher"
+                            },
+                            {
+                                "group_name": "How to redeem",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "redemption_process",
+                                "content": "## How to redeem\n\n- Enter the venue directly with your voucher\n- Activate your pass by visiting your first attraction\n- You can only enter each attraction once"
+                            }
+                        ]
+                    }
+                ],
+                "sku_list": [
+                    {
+                        "sku_id": 8062270601,
+                        "min_age": 0,
+                        "max_age": 0,
+                        "sku_max_pax": 9999,
+                        "sku_min_pax": 0,
+                        "title": "Adult",
+                        "required": 0,
+                        "sku_type": "ADULT",
+                        "variant_group_key": "",
+                        "variants": [],
+                        "section_info": [],
+                        "cancellation_type": -1,
+                        "cancellation_type_multilang": "",
+                        "voucher_usage": -1,
+                        "voucher_usage_multilang": "",
+                        "timeslot_type": 0,
+                        "instant": 1,
+                        "voucher_type": 0
+                    },
+                    {
+                        "sku_id": 8062270602,
+                        "min_age": 3,
+                        "max_age": 12,
+                        "sku_max_pax": 9999,
+                        "sku_min_pax": 0,
+                        "title": "Child(3-12)",
+                        "required": 0,
+                        "sku_type": "CHILD",
+                        "variant_group_key": "",
+                        "variants": [],
+                        "section_info": [],
+                        "cancellation_type": -1,
+                        "cancellation_type_multilang": "",
+                        "voucher_usage": -1,
+                        "voucher_usage_multilang": "",
+                        "timeslot_type": 0,
+                        "instant": 1,
+                        "voucher_type": 0
+                    }
+                ],
+                "time_zone": "-05:00",
+                "contact_info": [
+                    {
+                        "key": "title",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "name_english",
+                        "required": true,
+                        "regex": "^[\\s]{0,}[A-Za-z ]*[A-Za-z]{1,128}[\\s]{0,}$"
+                    },
+                    {
+                        "key": "name_local",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "country",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "mobile",
+                        "required": true,
+                        "regex": ""
+                    },
+                    {
+                        "key": "email",
+                        "required": true,
+                        "regex": ""
+                    }
+                ],
+                "spec_attr_list": null,
+                "variant_definition": null
+            },
+            {
+                "package_id": 20831,
+                "package_name": "5 Day Pass",
+                "package_min_pax": 1,
+                "package_max_pax": 9999,
+                "cancellation_type": 9,
+                "cancellation_type_multilang": "Free cancellation before redemption",
+                "voucher_usage": 0,
+                "voucher_usage_multilang": "Show e-voucher",
+                "timeslot_type": 0,
+                "instant": 1,
+                "ticket_type": 0,
+                "is_open_date": true,
+                "section_info": [
+                    {
+                        "section_name": "Package Icon",
+                        "groups": [
+                            {
+                                "group_name": "Redemption Process",
+                                "group_type": 1,
+                                "group_type_name": "icon",
+                                "ref_field_tag": "redemption_process",
+                                "content": "Enter with voucher"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "About this package",
+                        "groups": [
+                            {
+                                "group_name": "What's included",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "inclusive_of",
+                                "content": "## What's included\n\n- 5-day attraction pass\n- Admission to: [30+ Miami Attractions](https://gocity.com/miami/en-us/guidebook/all-inclusive)\n\n- Digital guide with attraction information and instructions"
+                            },
+                            {
+                                "group_name": "Not included",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "not_inclusive_of",
+                                "content": "## Not included\n\n\n- Other personal expenses"
+                            },
+                            {
+                                "group_name": "Eligibility",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "eligibility",
+                                "content": "## Eligibility\n\n- Children aged 13+ will be charged the same rate as adults\n- Children aged 0-2 may enter some attractions for free while some attractions might charge tickets for them. Please check with the attractions directly in advance. You may refer to the digital guide that comes with your pass for more information"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "Terms & Conditions",
+                        "groups": [
+                            {
+                                "group_name": "Confirmation",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "confirmation_details",
+                                "content": "## Confirmation\n\n- You'll get confirmation within minutes. If you don't see any confirmation, reach out to our customer support."
+                            },
+                            {
+                                "group_name": "Cancelation policy",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "policy",
+                                "content": "## Cancelation policy\n\n- You'll get a full refund as long as you don't redeem your voucher\n\n- Vouchers can be used any time within the validity period. Refunds can't be made once it has been redeemed or has expired.\n- If you've participated in at least one activity, visited at least one attraction or used one of the tickets, refunds can't be issued"
+                            },
+                            {
+                                "group_name": "Additional information",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "additional_information",
+                                "content": "## Additional information\n\n- Once you activate a pass, it can only be used by that individual. Passes cannot be re-sold or used by more than one person\n\n- For detailed information regarding the attractions, please check the [guide](https://gocity.com/miami/en-us/guidebook/all-inclusive)\n- Please note that the number of attractions is subject to change due to the temporary attraction closure"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "How to use",
+                        "groups": [
+                            {
+                                "group_name": "Usage validity",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "group_usage_validity",
+                                "content": "## Usage validity\n\n- The voucher is valid for 365 day(s) from the booking confirmation date. It expires at 23:59 the day after the last day\n\n- The Miami All-Inclusive Pass will be activated on your first visit to any attraction, and it is based on a non-consecutive number of days over a 2-week period. For example, if you start using the 2-day pass on Wednesday it will be valid on any other day within the following 2 weeks"
+                            },
+                            {
+                                "group_name": "Voucher type",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "voucher_type_desc",
+                                "content": "## Voucher type\n\n- Present your mobile voucher"
+                            },
+                            {
+                                "group_name": "How to redeem",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "redemption_process",
+                                "content": "## How to redeem\n\n- Enter the venue directly with your voucher\n- Activate your pass by visiting your first attraction\n- You can only enter each attraction once"
+                            }
+                        ]
+                    }
+                ],
+                "sku_list": [
+                    {
+                        "sku_id": 8062270701,
+                        "min_age": 0,
+                        "max_age": 0,
+                        "sku_max_pax": 9999,
+                        "sku_min_pax": 0,
+                        "title": "Adult",
+                        "required": 0,
+                        "sku_type": "ADULT",
+                        "variant_group_key": "",
+                        "variants": [],
+                        "section_info": [],
+                        "cancellation_type": -1,
+                        "cancellation_type_multilang": "",
+                        "voucher_usage": -1,
+                        "voucher_usage_multilang": "",
+                        "timeslot_type": 0,
+                        "instant": 1,
+                        "voucher_type": 0
+                    },
+                    {
+                        "sku_id": 8062270702,
+                        "min_age": 3,
+                        "max_age": 12,
+                        "sku_max_pax": 9999,
+                        "sku_min_pax": 0,
+                        "title": "Child(3-12)",
+                        "required": 0,
+                        "sku_type": "CHILD",
+                        "variant_group_key": "",
+                        "variants": [],
+                        "section_info": [],
+                        "cancellation_type": -1,
+                        "cancellation_type_multilang": "",
+                        "voucher_usage": -1,
+                        "voucher_usage_multilang": "",
+                        "timeslot_type": 0,
+                        "instant": 1,
+                        "voucher_type": 0
+                    }
+                ],
+                "time_zone": "-05:00",
+                "contact_info": [
+                    {
+                        "key": "title",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "name_english",
+                        "required": true,
+                        "regex": "^[\\s]{0,}[A-Za-z ]*[A-Za-z]{1,128}[\\s]{0,}$"
+                    },
+                    {
+                        "key": "name_local",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "country",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "mobile",
+                        "required": true,
+                        "regex": ""
+                    },
+                    {
+                        "key": "email",
+                        "required": true,
+                        "regex": ""
+                    }
+                ],
+                "spec_attr_list": null,
+                "variant_definition": null
+            }
+        ],
+        "duration": [],
+        "spec_attr_definition": []
+    }
+}

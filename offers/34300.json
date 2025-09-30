@@ -1,0 +1,338 @@
+{
+    "success": true,
+    "activity": {
+        "activity_id": 34300,
+        "title": "SEA LIFE Aquarium Ticket in Orlando  ",
+        "subtitle": "",
+        "what_we_love": "SEA LIFE Orlando Aquarium offers a wave of underwater adventures with sea creatures from around the world. Come face-to-fin with thousands of fish, sharks, stingrays, sea turtles, and many more. Prepare for a world of glittering scales, humongous tentacles, and razor sharp teeth. Get ready to plunge deep into the oceans, explore our 360-degree ocean tunnel, meet our friendly rescue sea turtle, and touch exotic starfish and anemones. You can even jump behind the scenes and see all it takes to keep an aquarium running.",
+        "video_url": "https://res.klook.com/video/upload/c_scale,h_540,vc_auto/c_scale,g_north_west,h_20,l_whitelogo_hz5dq1,o_30,x_70,y_480/c_scale,f_mp4,fl_splice,h_540,l_video:ending_trgtvv/v1586933277/activities/ggxitzudbo5tzugxigxy.mp4",
+        "supported_languages": [
+            "en_US",
+            "en_BS",
+            "en_IN",
+            "en_MY",
+            "en_AU",
+            "en_NZ",
+            "en_CA",
+            "en_SG",
+            "en_PH",
+            "en_HK",
+            "en_GB",
+            "id_ID",
+            "zh_TW",
+            "zh_HK",
+            "zh_CN",
+            "vi_VN",
+            "ja_JP",
+            "fr_FR",
+            "de_DE",
+            "it_IT",
+            "es_ES",
+            "ru_RU",
+            "th_TH",
+            "ko_KR",
+            "ms_MY"
+        ],
+        "available_date": "2025-09-30 10:00:00",
+        "location": "28.443171,-81.468623",
+        "address_desc_multilang": "SEA LIFE Orando Aquarium: 8449 International Dr, Orlando, FL 32819",
+        "price": "",
+        "vat_price": null,
+        "currency": "",
+        "has_msp": true,
+        "images": [
+            {
+                "image_alt": "family at Sea Life Orlando",
+                "image_desc": "",
+                "width": 1024,
+                "height": 683,
+                "image_type": "BANNER",
+                "image_url_host": "https://res.klook.com/image/upload/activities/aldherl7tqtxgym8ilhd.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "child at Sea Life Orlando",
+                "image_desc": "See fish, marine mammals, and more in an aquarium holding over 350,000 gallons of water at SEA LIFE Orlando",
+                "width": 1620,
+                "height": 1080,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/shjftbttdrxtixyogyqr.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "kids at a touchpool",
+                "image_desc": "Visitors of all ages will love the hands-on learning experiences at the touch pools and other exhibits",
+                "width": 1024,
+                "height": 683,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/buheg0dmhgphidljyfpo.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "young girl and giant pacific octopus",
+                "image_desc": "Be amazed at the secrets of the deep and discover some of the most interesting creatures living beneath the waves",
+                "width": 1024,
+                "height": 683,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/yfdfvxziy4jhfg19jqd5.jpg",
+                "group_id": "",
+                "images": null
+            },
+            {
+                "image_alt": "cow-nosed rays",
+                "image_desc": "Whether you're curious about cow-nosed rays or colorful fish, there's something for everyone at SEA LIFE Aquarium!",
+                "width": 1620,
+                "height": 1080,
+                "image_type": "IMAGE",
+                "image_url_host": "https://res.klook.com/image/upload/activities/kz8ewx75wye3cyw0jcnj.jpg",
+                "group_id": "",
+                "images": null
+            }
+        ],
+        "city_info": [
+            {
+                "city_id": 700841,
+                "city_name": "Orlando",
+                "country_id": 1028,
+                "country_name": "United States"
+            }
+        ],
+        "departure_city_info": [],
+        "category_info": {
+            "sub_category_id": 1,
+            "sub_category_name": "Attractions ",
+            "leaf_category_id": 108,
+            "leaf_category_name": "Aquariums"
+        },
+        "section_info": [
+            {
+                "section_name": "Highlights",
+                "groups": [
+                    {
+                        "group_name": "Activity Selling Points - Free text",
+                        "group_type": 0,
+                        "group_type_name": "normal",
+                        "ref_field_tag": "summary",
+                        "content": "- Discover amazing things and the magic of the ocean and its creatures at SEA LIFE Aquarium in Orlando\n- Explore the Jellyfish Wall, Stingray Cove, the Coastal Rockpool, and other exhibits, plus feeding sessions and more!\n- Walk through Florida's only 360-degree ocean tunnel and learn about the fascinating marine life\n- Watch the amazing scuba divers teach you about SEA LIFE's creatures, diving, and more at the interactive shows"
+                    }
+                ]
+            },
+            {
+                "section_name": "Date Description",
+                "groups": [
+                    {
+                        "group_name": "Date Description",
+                        "group_type": 0,
+                        "group_type_name": "normal",
+                        "ref_field_tag": "date_description",
+                        "content": "Please select a visit date"
+                    }
+                ]
+            }
+        ],
+        "package_list": [
+            {
+                "package_id": 104528,
+                "package_name": "SEA LIFE Orlando Aquarium Ticket",
+                "package_min_pax": 1,
+                "package_max_pax": 9999,
+                "cancellation_type": 1,
+                "cancellation_type_multilang": "Free cancellation (24 hours notice)",
+                "voucher_usage": 0,
+                "voucher_usage_multilang": "Show e-voucher",
+                "timeslot_type": 1,
+                "instant": 1,
+                "ticket_type": 1,
+                "is_open_date": false,
+                "section_info": [
+                    {
+                        "section_name": "Package Icon",
+                        "groups": [
+                            {
+                                "group_name": "Redemption Process",
+                                "group_type": 1,
+                                "group_type_name": "icon",
+                                "ref_field_tag": "redemption_process",
+                                "content": "Skip the line & enter with voucher"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "About this package",
+                        "groups": [
+                            {
+                                "group_name": "What's included",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "inclusive_of",
+                                "content": "## What's included\n\n- 1 SEA LIFE Orlando Aquarium ticket(s)\n\n- Complimentary parking"
+                            },
+                            {
+                                "group_name": "Not included",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "not_inclusive_of",
+                                "content": "## Not included\n\n- Transport\n\n- Meals and beverages\n\n- Other personal expenses"
+                            },
+                            {
+                                "group_name": "Eligibility",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "eligibility",
+                                "content": "## Eligibility\n\n- Children aged 0-16 must be accompanied by a paying adult\n- Children aged 0-1 can enter free of charge"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "Terms & Conditions",
+                        "groups": [
+                            {
+                                "group_name": "Confirmation",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "confirmation_details",
+                                "content": "## Confirmation\n\n- You'll get confirmation within minutes. If you don't see any confirmation, reach out to our customer support."
+                            },
+                            {
+                                "group_name": "Cancelation policy",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "policy",
+                                "content": "## Cancelation policy\n\n\n- You'll get a full refund if you cancel at least 24 hour(s) before the activity starts\n- In case of unforeseen events or extreme weather, the operator reserves the right to cancel the booking. If this happens, you have the option to reschedule or request a full refund\n\n- If you've participated in at least one activity, visited at least one attraction or used one of the tickets, refunds can't be issued"
+                            },
+                            {
+                                "group_name": "Additional information",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "additional_information",
+                                "content": "## Additional information\n\n\n- Re-entry is not allowed after you leave the venue\n\n- Outside food and drinks are not allowed inside the venue\n- Luggage and/or large bags are not allowed inside the venue. You may drop off your bags at reception before entering\n\n- This activity is stroller and wheelchair-accessible"
+                            }
+                        ]
+                    },
+                    {
+                        "section_name": "How to use",
+                        "groups": [
+                            {
+                                "group_name": "Usage validity",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "group_usage_validity",
+                                "content": "## Usage validity\n\n- The voucher is valid only on the specified date (and time if applicable)"
+                            },
+                            {
+                                "group_name": "Opening hours",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "open_hours",
+                                "content": "## Opening hours\n\n- Sea Life Orlando\n- Sunday-Thursday: 11:00-19:00\n- Friday-Saturday: 11:00-20:00\n\n- Please note that the opening hours may change without prior notice. For complete days and hours of operation visit the official website: [SEA LIFE Orlando Aquarium](https://www.visitsealife.com/orlando/find/hours-of-operation/)"
+                            },
+                            {
+                                "group_name": "Voucher type",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "voucher_type_desc",
+                                "content": "## Voucher type\n\n- Enter the venue directly with this voucher\n- Present your mobile voucher"
+                            },
+                            {
+                                "group_name": "Address",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "location",
+                                "content": "## Address\n\n- 8449 International Dr, Orlando, FL 32819\n- Please refer to the [map](https://goo.gl/maps/JwN2H1zDJEehbMWHA) for assistance"
+                            },
+                            {
+                                "group_name": "How to get there",
+                                "group_type": 0,
+                                "group_type_name": "normal",
+                                "ref_field_tag": "transportation",
+                                "content": "## How to get there\n\n- By bus: Take the Lynx bus 8, 38, 42, 50, 58, or 111 to International Drive. It is a short walk from there\n- By car: Follow GPS directions to 8449 International Dr, Orlando, FL 32819. There is free parking on site"
+                            }
+                        ]
+                    }
+                ],
+                "sku_list": [
+                    {
+                        "sku_id": 828951040396,
+                        "min_age": 0,
+                        "max_age": 0,
+                        "sku_max_pax": 9999,
+                        "sku_min_pax": 0,
+                        "title": "Adult",
+                        "required": 0,
+                        "sku_type": "ADULT",
+                        "variant_group_key": "",
+                        "variants": [],
+                        "section_info": [],
+                        "cancellation_type": -1,
+                        "cancellation_type_multilang": "",
+                        "voucher_usage": -1,
+                        "voucher_usage_multilang": "",
+                        "timeslot_type": 1,
+                        "instant": 1,
+                        "voucher_type": 0
+                    },
+                    {
+                        "sku_id": 828951040397,
+                        "min_age": 2,
+                        "max_age": 12,
+                        "sku_max_pax": 9999,
+                        "sku_min_pax": 0,
+                        "title": "Child(2-12)",
+                        "required": 0,
+                        "sku_type": "CHILD",
+                        "variant_group_key": "",
+                        "variants": [],
+                        "section_info": [],
+                        "cancellation_type": -1,
+                        "cancellation_type_multilang": "",
+                        "voucher_usage": -1,
+                        "voucher_usage_multilang": "",
+                        "timeslot_type": 1,
+                        "instant": 1,
+                        "voucher_type": 0
+                    }
+                ],
+                "time_zone": "-05:00",
+                "contact_info": [
+                    {
+                        "key": "title",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "name_english",
+                        "required": true,
+                        "regex": "^[\\s]{0,}[A-Za-z ]*[A-Za-z]{1,128}[\\s]{0,}$"
+                    },
+                    {
+                        "key": "name_local",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "country",
+                        "required": false,
+                        "regex": ""
+                    },
+                    {
+                        "key": "mobile",
+                        "required": true,
+                        "regex": ""
+                    },
+                    {
+                        "key": "email",
+                        "required": true,
+                        "regex": ""
+                    }
+                ],
+                "spec_attr_list": null,
+                "variant_definition": null
+            }
+        ],
+        "duration": [],
+        "spec_attr_definition": []
+    }
+}
